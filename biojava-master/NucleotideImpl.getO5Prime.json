@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NucleotideImpl.getO5Prime","method_implementation":"{\n    return getAtom(\"O5'\");\n}","repo_id":"9","comment":"/**\n * Returns the O5' atom if present, otherwise null\n * @return O5' atom or null\n */\n","repo_name":"biojava-master/","id":1012,"method_signature":"Atom getO5Prime()"}

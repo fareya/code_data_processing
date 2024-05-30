@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleGapPenalty.setDefaultOpenPenalty","method_implementation":"{\n    dgop = gop;\n}","repo_id":"9","comment":"/**\n * Sets the default gap open penalty.\n *\n * @param gop the default gap open penalty\n */\n","repo_name":"biojava-master/","id":1,"method_signature":"void setDefaultOpenPenalty(int)"}

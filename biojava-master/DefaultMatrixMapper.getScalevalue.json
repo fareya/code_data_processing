@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DefaultMatrixMapper.getScalevalue","method_implementation":"{\n    return scalevalue;\n}","repo_id":"9","comment":"/**\n * @return the scalevalue\n */\n","repo_name":"biojava-master/","id":3365,"method_signature":"double getScalevalue()"}

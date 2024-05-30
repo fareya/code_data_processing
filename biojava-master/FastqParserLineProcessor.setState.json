@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FastqParserLineProcessor.setState","method_implementation":"{\n    this.state = state;\n}","repo_id":"9","comment":"/**\n * Set the parser state to <code>state<\/code>.\n *\n * @param state parser state\n */\n","repo_name":"biojava-master/","id":2354,"method_signature":"void setState(State)"}

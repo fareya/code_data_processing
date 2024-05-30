@@ -1,0 +1,1 @@
+{"callee_method_ids":[850],"callee_method_names":["SparseVector.dot"],"method_name":"SparseVector.norm","method_implementation":"{\n    SparseVector a = this;\n    return Math.sqrt(a.dot(a));\n}","repo_id":"9","comment":"/**\n * Calculates the 2-norm\n *\n * @return\n */\n","repo_name":"biojava-master/","id":851,"method_signature":"double norm()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomImpl.setElement","method_implementation":"{\n    this.element = e;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1701,"method_signature":"void setElement(Element)"}

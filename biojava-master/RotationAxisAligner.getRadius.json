@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RotationAxisAligner.getRadius","method_implementation":"{\n    run();\n    return xyRadiusMax;\n}","repo_id":"9","comment":"/**\n * Returns the radius for drawing the minor rotation axis in the xy-plane\n * @return double radius in xy-plane\n */\n","repo_name":"biojava-master/","id":1984,"method_signature":"double getRadius()"}

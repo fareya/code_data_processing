@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CensorStatus.getPercentage","method_implementation":"{\n    return percentage;\n}","repo_id":"9","comment":"/**\n * @return the percentage\n */\n","repo_name":"biojava-master/","id":3815,"method_signature":"Double getPercentage()"}

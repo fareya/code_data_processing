@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PlainFastaHeaderParser.getHeaderValues","method_implementation":"{\n    return new String[] { header };\n}","repo_id":"9","comment":"/**\n * Parse out the all header as one entity\n *\n * @param header\n * @return\n */\n","repo_name":"biojava-master/","id":2847,"method_signature":"String[] getHeaderValues(String)"}

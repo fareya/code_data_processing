@@ -1,0 +1,1 @@
+{"callee_method_names":["Chain.getId"],"method_name":"HetatomImpl.getChainId","method_implementation":"{\n    if (parent == null) {\n        return \"\";\n    }\n    return parent.getId();\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":994,"method_signature":"String getChainId()"}

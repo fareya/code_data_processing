@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomCache.getCachePath","method_implementation":"{\n    return cachePath;\n}","repo_id":"9","comment":"/**\n * Returns the path that contains the caching file for utility data, such as domain definitions.\n *\n * @return\n */\n","repo_name":"biojava-master/","id":625,"method_signature":"String getCachePath()"}

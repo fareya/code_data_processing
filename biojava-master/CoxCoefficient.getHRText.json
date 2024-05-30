@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getHRText","method_implementation":"{\n    return fmt(hazardRatio, 2, 0) + \" CI(\" + fmt(hazardRatioLoCI, 2, 0) + \"-\" + fmt(hazardRatioHiCI, 2, 0) + \")\";\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3529,"method_signature":"String getHRText()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RNASequence.getComplement","method_implementation":"{\n    return new ComplementSequenceView<>(this);\n}","repo_id":"9","comment":"/**\n * Get the complement view of the RNA sequence\n * @return\n */\n","repo_name":"biojava-master/","id":2684,"method_signature":"SequenceView<NucleotideCompound> getComplement()"}

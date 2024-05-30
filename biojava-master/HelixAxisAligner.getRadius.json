@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HelixAxisAligner.getRadius","method_implementation":"{\n    run();\n    return xzRadiusMax;\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.quaternary.core.AxisAligner#getXYRadius()\n\t */\n","repo_name":"biojava-master/","id":1967,"method_signature":"double getRadius()"}

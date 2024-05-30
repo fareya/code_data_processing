@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.get"],"method_name":"SurvivalInfo.getUnknownDataTypeVariable","method_implementation":"{\n    return unknownDataType.get(variable);\n}","repo_id":"9","comment":"/**\n * @param variable\n * @return\n */\n","repo_name":"biojava-master/","id":3645,"method_signature":"String getUnknownDataTypeVariable(String)"}

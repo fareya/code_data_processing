@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.getStructureIdentifier","method_implementation":"{\n    return structureIdentifier;\n}","repo_id":"9","comment":"/**\n * @return The StructureIdentifier used to create this structure\n */\n","repo_name":"biojava-master/","id":2119,"method_signature":"StructureIdentifier getStructureIdentifier()"}

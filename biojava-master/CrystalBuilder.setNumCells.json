@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CrystalBuilder.setNumCells","method_implementation":"{\n    this.numCells = numCells;\n}","repo_id":"9","comment":"/**\n * Set the number of neighboring crystal cells that will be used in the search for contacts\n * @param numCells\n */\n","repo_name":"biojava-master/","id":1436,"method_signature":"void setNumCells(int)"}

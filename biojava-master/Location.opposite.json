@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.opposite","method_implementation":"{\n    return new Location(-mEnd, -mStart);\n}","repo_id":"9","comment":"/**\n * Return location that is in same position on opposite strand.\n *\n * @return Location on opposite strand.\n */\n","repo_name":"biojava-master/","id":2422,"method_signature":"Location opposite()"}

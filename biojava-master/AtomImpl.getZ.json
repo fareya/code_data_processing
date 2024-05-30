@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomImpl.getZ","method_implementation":"{\n    return coords.z;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1696,"method_signature":"double getZ()"}

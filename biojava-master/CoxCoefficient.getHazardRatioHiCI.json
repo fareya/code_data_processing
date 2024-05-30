@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getHazardRatioHiCI","method_implementation":"{\n    return hazardRatioHiCI;\n}","repo_id":"9","comment":"/**\n * @return the hazardRatioHiCI\n */\n","repo_name":"biojava-master/","id":3537,"method_signature":"double getHazardRatioHiCI()"}

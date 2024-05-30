@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupAsa.getBsaToAsaRatio","method_implementation":"{\n    return getBsa() / asaU;\n}","repo_id":"9","comment":"/**\n * Returns the bsa/asa(uncomplexed) ratio, i.e. the ratio of burial of a residue upon complexation\n * @return\n */\n","repo_name":"biojava-master/","id":843,"method_signature":"double getBsaToAsaRatio()"}

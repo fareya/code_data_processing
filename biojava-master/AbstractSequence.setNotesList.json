@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setNotesList","method_implementation":"{\n    this.notesList = notesList;\n}","repo_id":"9","comment":"/**\n * @param notesList the notesList to set\n */\n","repo_name":"biojava-master/","id":2918,"method_signature":"void setNotesList(ArrayList)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBCrystallographicInfo.setSpaceGroup","method_implementation":"{\n    this.sg = spaceGroup;\n}","repo_id":"9","comment":"/**\n * Set the SpaceGroup\n * @param spaceGroup\n */\n","repo_name":"biojava-master/","id":1413,"method_signature":"void setSpaceGroup(SpaceGroup)"}

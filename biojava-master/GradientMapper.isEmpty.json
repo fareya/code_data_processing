@@ -1,0 +1,1 @@
+{"callee_method_names":["NavigableMap<Double, Color>.size"],"method_name":"GradientMapper.isEmpty","method_implementation":"{\n    return mapping.size() <= 2;\n}","repo_id":"9","comment":"/**\n * @return true if this gradient does not contain finite endpoints\n * @see java.util.Map#isEmpty()\n */\n","repo_name":"biojava-master/","id":3354,"method_signature":"boolean isEmpty()"}

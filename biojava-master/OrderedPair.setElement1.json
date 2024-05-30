@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"OrderedPair.setElement1","method_implementation":"{\n    this.element1 = element1;\n}","repo_id":"9","comment":"/**\n * Sets the first element of an ordered pair.\n *\n * @param element1 the first element of an ordered pair\n */\n","repo_name":"biojava-master/","id":948,"method_signature":"void setElement1(T)"}

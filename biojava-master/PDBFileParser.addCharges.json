@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBFileParser.addCharges","method_implementation":"{\n    ChargeAdder.addCharges(structure);\n}","repo_id":"9","comment":"/**\n * Add the charges to the Structure\n */\n","repo_name":"biojava-master/","id":1191,"method_signature":"void addCharges()"}

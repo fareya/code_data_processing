@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PassthroughIdentifier.loadStructure","method_implementation":"{\n    return null;\n}","repo_id":"9","comment":"/**\n * Passthrough identifiers don't know how to load a structure\n * @return null\n */\n","repo_name":"biojava-master/","id":946,"method_signature":"Structure loadStructure(AtomCache)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.get"],"method_name":"CoxInfo.getCoefficient","method_implementation":"{\n    return coefficientsList.get(name);\n}","repo_id":"9","comment":"/**\n * @param name\n * @return\n */\n","repo_name":"biojava-master/","id":3615,"method_signature":"CoxCoefficient getCoefficient(String)"}

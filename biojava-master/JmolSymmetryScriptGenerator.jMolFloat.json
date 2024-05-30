@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolSymmetryScriptGenerator.jMolFloat","method_implementation":"{\n    return (float) f;\n}","repo_id":"9","comment":"/**\n * Returns a lower precision floating point number for Jmol\n * @param f\n * @return\n */\n","repo_name":"biojava-master/","id":3382,"method_signature":"float jMolFloat(double)"}

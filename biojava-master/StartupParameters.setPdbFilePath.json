@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StartupParameters.setPdbFilePath","method_implementation":"{\n    this.pdbFilePath = pdbFilePath;\n}","repo_id":"9","comment":"/**\n * mandatory argument to set the location of PDB files.\n *\n * @param pdbFilePath\n */\n","repo_name":"biojava-master/","id":770,"method_signature":"void setPdbFilePath(String)"}

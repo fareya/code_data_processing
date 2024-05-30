@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HeaderInfo.isHide","method_implementation":"{\n    return hide;\n}","repo_id":"9","comment":"/**\n * @return the hide\n */\n","repo_name":"biojava-master/","id":3700,"method_signature":"boolean isHide()"}

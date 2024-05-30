@@ -1,0 +1,1 @@
+{"callee_method_names":["HashMap.put"],"method_name":"NCBIQBlastAlignmentProperties.setAlignmentOption","method_implementation":"{\n    param.put(key, val);\n}","repo_id":"9","comment":"/**\n * Sets the value of specified parameter\n */\n","repo_name":"biojava-master/","id":3481,"method_signature":"void setAlignmentOption(BlastAlignmentParameterEnum, String)"}

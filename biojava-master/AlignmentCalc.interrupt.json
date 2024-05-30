@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlignmentCalc.interrupt","method_implementation":"{\n    interrupted = true;\n}","repo_id":"9","comment":"/**\n * stops what is currently happening and does not continue\n */\n","repo_name":"biojava-master/","id":3334,"method_signature":"void interrupt()"}

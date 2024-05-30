@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NCBIQBlastOutputProperties.getOutputFormat","method_implementation":"{\n    return getOutputOption(FORMAT_TYPE);\n}","repo_id":"9","comment":"/**\n * @return stream output format - a String with the value of key FORMAT_TYPE\n */\n","repo_name":"biojava-master/","id":3454,"method_signature":"String getOutputFormat()"}

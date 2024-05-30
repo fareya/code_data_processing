@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.setIsPublished","method_implementation":"{\n    this.published = state;\n}","repo_id":"9","comment":"/**\n * Sets the publication state of a JournalArticle - TO BE PUBLISHED == false\n * @param state\n */\n","repo_name":"biojava-master/","id":1527,"method_signature":"void setIsPublished(Boolean)"}

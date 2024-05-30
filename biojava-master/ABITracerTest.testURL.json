@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ABITracerTest.testURL","method_implementation":"{\n    assertNotNull(tracer);\n}","repo_id":"9","comment":"/**\n * Test of URL method, of class ABITracer.\n */\n","repo_name":"biojava-master/","id":3227,"method_signature":"void testURL()"}

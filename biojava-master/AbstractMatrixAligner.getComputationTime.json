@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractMatrixAligner.getComputationTime","method_implementation":"{\n    if (profile == null) {\n        align();\n    }\n    return time;\n}","repo_id":"9","comment":"// methods for Aligner\n","repo_name":"biojava-master/","id":67,"method_signature":"long getComputationTime()"}

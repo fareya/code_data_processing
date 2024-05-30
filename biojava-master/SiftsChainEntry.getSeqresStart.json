@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SiftsChainEntry.getSeqresStart","method_implementation":"{\n    return seqresStart;\n}","repo_id":"9","comment":"/**\n * @return A residue number\n */\n","repo_name":"biojava-master/","id":1120,"method_signature":"String getSeqresStart()"}

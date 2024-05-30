@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.setPdbId","method_implementation":"{\n    this.pdbId = pdbId;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n * @since 6.0.0\n */\n","repo_name":"biojava-master/","id":2165,"method_signature":"void setPdbId(PdbId)"}

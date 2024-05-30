@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Model>.size"],"method_name":"StructureImpl.getChains","method_implementation":"{\n    if (models.size() == 0) {\n        return new ArrayList<>(0);\n    }\n    return getChains(0);\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2134,"method_signature":"List<Chain> getChains()"}

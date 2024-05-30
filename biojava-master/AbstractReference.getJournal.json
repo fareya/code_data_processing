@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractReference.getJournal","method_implementation":"{\n    return journal;\n}","repo_id":"9","comment":"/**\n * The journal usually contains the Publication Number, Publication Date and Assignee\n *\n * @return\n */\n","repo_name":"biojava-master/","id":3019,"method_signature":"String getJournal()"}

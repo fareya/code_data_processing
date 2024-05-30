@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Site.setGroups","method_implementation":"{\n    this.groups = residues;\n}","repo_id":"9","comment":"/**\n * @param residues the groups to set\n */\n","repo_name":"biojava-master/","id":1572,"method_signature":"void setGroups(List)"}

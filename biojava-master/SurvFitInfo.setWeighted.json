@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvFitInfo.setWeighted","method_implementation":"{\n    this.weighted = weighted;\n}","repo_id":"9","comment":"/**\n * @param weighted the weighted to set\n */\n","repo_name":"biojava-master/","id":3697,"method_signature":"void setWeighted(boolean)"}

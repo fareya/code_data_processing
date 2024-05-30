@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryParameters.getRmsdThreshold","method_implementation":"{\n    return rmsdThreshold;\n}","repo_id":"9","comment":"/**\n * @return the rmsdThreshold\n */\n","repo_name":"biojava-master/","id":1907,"method_signature":"double getRmsdThreshold()"}

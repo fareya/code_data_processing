@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getStatus","method_implementation":"{\n    return status;\n}","repo_id":"9","comment":"/**\n * @return the status\n */\n","repo_name":"biojava-master/","id":3520,"method_signature":"ArrayList<Integer> getStatus()"}

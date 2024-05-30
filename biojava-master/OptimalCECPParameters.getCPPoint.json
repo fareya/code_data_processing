@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"OptimalCECPParameters.getCPPoint","method_implementation":"{\n    return cpPoint;\n}","repo_id":"9","comment":"/**\n * @return the cpPoint\n */\n","repo_name":"biojava-master/","id":709,"method_signature":"Integer getCPPoint()"}

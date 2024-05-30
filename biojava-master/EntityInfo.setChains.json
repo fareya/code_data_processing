@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EntityInfo.setChains","method_implementation":"{\n    this.chains = chains;\n}","repo_id":"9","comment":"/**\n * Set the chains for this EntityInfo\n * @param chains\n */\n","repo_name":"biojava-master/","id":1350,"method_signature":"void setChains(List)"}

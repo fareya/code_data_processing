@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StockholmStructure.addGSdbReference","method_implementation":"{\n    getSequenceAnnotation(seqName).addDBReference(text);\n}","repo_id":"9","comment":"/**\n * @param seqName\n * @param text\n */\n","repo_name":"biojava-master/","id":27,"method_signature":"void addGSdbReference(String, String)"}

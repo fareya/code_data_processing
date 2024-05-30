@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getScoreLogrankTestpvalue","method_implementation":"{\n    return scoreLogrankTestpvalue;\n}","repo_id":"9","comment":"/**\n * @return the scoreLogrankTestpvalue\n */\n","repo_name":"biojava-master/","id":3633,"method_signature":"Double getScoreLogrankTestpvalue()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["Map<String, ChemComp>.size"],"method_name":"ChemicalComponentDictionary.size","method_implementation":"{\n    return dictionary.size();\n}","repo_id":"9","comment":"/**\n * Returns the number of ChemComps in this dictionary\n * @return nr. of ChemComps\n */\n","repo_name":"biojava-master/","id":1108,"method_signature":"int size()"}

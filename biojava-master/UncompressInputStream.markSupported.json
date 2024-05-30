@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"UncompressInputStream.markSupported","method_implementation":"{\n    return false;\n}","repo_id":"9","comment":"/**\n * This stream does not support mark/reset on the stream.\n *\n * @return false\n */\n","repo_name":"biojava-master/","id":2597,"method_signature":"boolean markSupported()"}

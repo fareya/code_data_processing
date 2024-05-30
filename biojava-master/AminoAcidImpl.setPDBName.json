@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AminoAcidImpl.setPDBName","method_implementation":"{\n    pdb_name = s;\n}","repo_id":"9","comment":"/**\n * set three character name of AminoAcid.\n *\n * @param s  a String specifying the PDBName value\n * @see #getPDBName()\n */\n","repo_name":"biojava-master/","id":1363,"method_signature":"void setPDBName(String)"}

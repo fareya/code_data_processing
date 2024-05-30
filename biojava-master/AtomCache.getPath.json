@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomCache.getPath","method_implementation":"{\n    return path;\n}","repo_id":"9","comment":"/**\n * Get the path that is used to cache PDB files.\n *\n * @return path to a directory\n */\n","repo_name":"biojava-master/","id":626,"method_signature":"String getPath()"}

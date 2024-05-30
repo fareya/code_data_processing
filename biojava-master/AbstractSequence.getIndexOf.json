@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getIndexOf","method_implementation":"{\n    return getSequenceStorage().getIndexOf(compound);\n}","repo_id":"9","comment":"/**\n * @param compound\n * @return The first index of compound in this sequence (1-based)\n */\n","repo_name":"biojava-master/","id":2944,"method_signature":"int getIndexOf(C)"}

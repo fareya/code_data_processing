@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryParameters.isOnTheFly","method_implementation":"{\n    return onTheFly;\n}","repo_id":"9","comment":"/**\n * On-the-fly Jmol bioassembly generation.\n *\n * @return true if Jmol on the fly bioassembly generation is used\n */\n","repo_name":"biojava-master/","id":1916,"method_signature":"boolean isOnTheFly()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Site.getSiteID","method_implementation":"{\n    return siteID;\n}","repo_id":"9","comment":"/**\n * @return the siteID\n * e.g. CAT, AC1, AC2...\n */\n","repo_name":"biojava-master/","id":1570,"method_signature":"String getSiteID()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Component>.get"],"method_name":"ModificationLinkage.getComponent1","method_implementation":"{\n    return components.get(indexOfComponent1);\n}","repo_id":"9","comment":"/**\n * @return the first component.\n */\n","repo_name":"biojava-master/","id":266,"method_signature":"Component getComponent1()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RotationAxis.getScrewTranslation","method_implementation":"{\n    return screwTranslation;\n}","repo_id":"9","comment":"/**\n * Get the component of translation parallel to the axis of rotation\n * @return\n */\n","repo_name":"biojava-master/","id":560,"method_signature":"Atom getScrewTranslation()"}

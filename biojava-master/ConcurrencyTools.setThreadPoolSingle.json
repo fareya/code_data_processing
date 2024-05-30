@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ConcurrencyTools.setThreadPoolSingle","method_implementation":"{\n    setThreadPoolSize(1);\n}","repo_id":"9","comment":"/**\n * Sets thread pool to a single background thread.\n */\n","repo_name":"biojava-master/","id":2611,"method_signature":"void setThreadPoolSingle()"}

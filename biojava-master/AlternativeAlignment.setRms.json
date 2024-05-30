@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlternativeAlignment.setRms","method_implementation":"{\n    this.rms = rms;\n}","repo_id":"9","comment":"/**\n * the rms in the structurally equivalent regions\n *\n * @param rms\n */\n","repo_name":"biojava-master/","id":813,"method_signature":"void setRms(double)"}

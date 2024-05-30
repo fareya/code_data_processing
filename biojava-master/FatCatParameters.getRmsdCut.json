@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FatCatParameters.getRmsdCut","method_implementation":"{\n    return rmsdCut;\n}","repo_id":"9","comment":"/**\n * The cutoff to be used during AFP detection\n *\n * @return rmsdCut parameter\n */\n","repo_name":"biojava-master/","id":429,"method_signature":"Double getRmsdCut()"}

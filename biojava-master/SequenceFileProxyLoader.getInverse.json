@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceFileProxyLoader.getInverse","method_implementation":"{\n    return SequenceMixin.inverse(this);\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3163,"method_signature":"SequenceView<C> getInverse()"}

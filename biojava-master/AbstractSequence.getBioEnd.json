@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getBioEnd","method_implementation":"{\n    if (bioEnd == null) {\n        return this.getLength();\n    } else {\n        return bioEnd;\n    }\n}","repo_id":"9","comment":"/**\n * @return the bioEnd\n */\n","repo_name":"biojava-master/","id":2902,"method_signature":"Integer getBioEnd()"}

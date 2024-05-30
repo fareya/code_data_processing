@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getAnnotationType","method_implementation":"{\n    return annotationType;\n}","repo_id":"9","comment":"/**\n * @return the annotation\n */\n","repo_name":"biojava-master/","id":2906,"method_signature":"AnnotationType getAnnotationType()"}

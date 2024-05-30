@@ -1,0 +1,1 @@
+{"callee_method_names":["JFrame.setTitle","JFrame.repaint"],"method_name":"AbstractAlignmentJmol.setTitle","method_implementation":"{\n    frame.setTitle(title);\n    frame.repaint();\n}","repo_id":"9","comment":"/**\n * Set the title of the AlignmentJmol window.\n * @param label\n */\n","repo_name":"biojava-master/","id":3274,"method_signature":"void setTitle(String)"}

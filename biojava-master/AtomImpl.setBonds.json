@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomImpl.setBonds","method_implementation":"{\n    this.bonds = bonds;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1704,"method_signature":"void setBonds(List)"}

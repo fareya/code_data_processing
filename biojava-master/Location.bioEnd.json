@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.bioEnd","method_implementation":"{\n    return plus().end();\n}","repo_id":"9","comment":"/**\n * Get end index, in biocoordinates.\n *\n * @return The origin 1 index of the final symbol in location.\n */\n","repo_name":"biojava-master/","id":2394,"method_signature":"int bioEnd()"}

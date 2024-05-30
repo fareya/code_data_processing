@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Matrix.oneDivide","method_implementation":"{\n    double[] d = new double[A.length];\n    for (int i = 0; i < d.length; i++) {\n        d[i] = 1.0 / A[i];\n    }\n    return d;\n}","repo_id":"9","comment":"/**\n * @param A\n * @return\n */\n","repo_name":"biojava-master/","id":3572,"method_signature":"double[] oneDivide(double[])"}

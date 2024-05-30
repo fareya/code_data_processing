@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SparseVector.size","method_implementation":"{\n    return N;\n}","repo_id":"9","comment":"// return the size of the vector\n","repo_name":"biojava-master/","id":849,"method_signature":"int size()"}

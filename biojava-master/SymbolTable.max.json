@@ -1,0 +1,1 @@
+{"callee_method_names":["TreeMap<Key, Value>.lastKey"],"method_name":"SymbolTable.max","method_implementation":"{\n    return st.lastKey();\n}","repo_id":"9","comment":"/**\n * Return the largest key in the table.\n */\n","repo_name":"biojava-master/","id":862,"method_signature":"Key max()"}

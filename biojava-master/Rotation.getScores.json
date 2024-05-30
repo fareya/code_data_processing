@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.getScores","method_implementation":"{\n    return scores;\n}","repo_id":"9","comment":"/**\n * @return the scores\n */\n","repo_name":"biojava-master/","id":1863,"method_signature":"QuatSymmetryScores getScores()"}

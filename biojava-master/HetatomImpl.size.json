@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Atom>.size"],"method_name":"HetatomImpl.size","method_implementation":"{\n    return atoms.size();\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":980,"method_signature":"int size()"}

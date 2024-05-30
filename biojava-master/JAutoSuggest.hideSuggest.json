@@ -1,0 +1,1 @@
+{"callee_method_names":["JDialog.setVisible"],"method_name":"JAutoSuggest.hideSuggest","method_implementation":"{\n    dialog.setVisible(false);\n}","repo_id":"9","comment":"/**\n * Force the suggestions to be hidden (Useful for buttons, e.g. to use\n * JSuggestionField like a ComboBox)\n */\n","repo_name":"biojava-master/","id":3247,"method_signature":"void hideSuggest()"}

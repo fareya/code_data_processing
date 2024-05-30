@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getBlockResList","method_implementation":"{\n    return blockResList;\n}","repo_id":"9","comment":"/**\n * tracks the residues of the initial blocks (before optimization)\n *\n * @return list of block residues\n */\n","repo_name":"biojava-master/","id":488,"method_signature":"int[][][] getBlockResList()"}

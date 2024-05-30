@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"UniprotProxySequenceReader.setUniprotbaseURL","method_implementation":"{\n    uniprotbaseURL = aUniprotbaseURL;\n}","repo_id":"9","comment":"/**\n * @param aUniprotbaseURL the uniprotbaseURL to set\n */\n","repo_name":"biojava-master/","id":3140,"method_signature":"void setUniprotbaseURL(String)"}

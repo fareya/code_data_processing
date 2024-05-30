@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WaldTestInfo.getPvalue","method_implementation":"{\n    double pvalue = ChiSq.chiSq(getTest(), df);\n    return pvalue;\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3680,"method_signature":"double getPvalue()"}

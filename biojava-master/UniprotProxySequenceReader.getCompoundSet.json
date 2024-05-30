@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"UniprotProxySequenceReader.getCompoundSet","method_implementation":"{\n    return compoundSet;\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3126,"method_signature":"CompoundSet<C> getCompoundSet()"}

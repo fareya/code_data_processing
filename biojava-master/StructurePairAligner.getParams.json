@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructurePairAligner.getParams","method_implementation":"{\n    return params;\n}","repo_id":"9","comment":"/**\n * get the parameters.\n *\n * @return the Parameters.\n */\n","repo_name":"biojava-master/","id":547,"method_signature":"StrucAligParameters getParams()"}

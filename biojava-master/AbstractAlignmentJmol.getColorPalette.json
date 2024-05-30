@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractAlignmentJmol.getColorPalette","method_implementation":"{\n    return colorPalette;\n}","repo_id":"9","comment":"/**\n * Return the color pattelete of the AlignmentJmol instance.\n */\n","repo_name":"biojava-master/","id":3268,"method_signature":"ColorBrewer getColorPalette()"}

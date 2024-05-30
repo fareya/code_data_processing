@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceDisplay.setIdx2","method_implementation":"{\n    this.idx2 = idx;\n}","repo_id":"9","comment":"/**\n * set the identical positions in the alignment\n *\n * @param idx identical positions for structure2\n */\n","repo_name":"biojava-master/","id":3330,"method_signature":"void setIdx2(int[])"}

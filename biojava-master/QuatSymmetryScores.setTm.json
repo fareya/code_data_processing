@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.setTm","method_implementation":"{\n    this.tm = tm;\n}","repo_id":"9","comment":"/**\n * @param tm the tm to set\n */\n","repo_name":"biojava-master/","id":1949,"method_signature":"void setTm(double)"}

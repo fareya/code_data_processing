@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GuideTree.getSequences","method_implementation":"{\n    return sequences;\n}","repo_id":"9","comment":"/**\n * Returns the {@link Sequence}s which make up the leaves of this tree.\n *\n * @return the sequences which make up the leaves of this tree\n */\n","repo_name":"biojava-master/","id":11,"method_signature":"List<S> getSequences()"}

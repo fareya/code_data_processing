@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FastaSequence.getId","method_implementation":"{\n    return id;\n}","repo_id":"9","comment":"/**\n * Gets the value of id\n *\n * @return the value of id\n */\n","repo_name":"biojava-master/","id":203,"method_signature":"String getId()"}

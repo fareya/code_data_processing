@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.setScores","method_implementation":"{\n    this.scores = scores;\n}","repo_id":"9","comment":"/**\n * @param scores the scores to set\n */\n","repo_name":"biojava-master/","id":1864,"method_signature":"void setScores(QuatSymmetryScores)"}

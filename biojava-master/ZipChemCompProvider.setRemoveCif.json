@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ZipChemCompProvider.setRemoveCif","method_implementation":"{\n    m_removeCif = doRemove;\n}","repo_id":"9","comment":"/**\n * Remove downloaded .cif.gz after adding to zip archive?\n * Default is true.\n * @param doRemove\n */\n","repo_name":"biojava-master/","id":1074,"method_signature":"void setRemoveCif(boolean)"}

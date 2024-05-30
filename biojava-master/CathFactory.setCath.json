@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CathFactory.setCath","method_implementation":"{\n    CathFactory.cath = cath;\n}","repo_id":"9","comment":"/**\n * Sets the default (singleton) CathDatabase.\n */\n","repo_name":"biojava-master/","id":1066,"method_signature":"void setCath(CathDatabase)"}

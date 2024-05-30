@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NCBIQBlastAlignmentProperties.getBlastToPosition","method_implementation":"{\n    return Integer.parseInt(getAlignmentOption(QUERY_TO));\n}","repo_id":"9","comment":"/**\n * @return QUERY_TO parameter\n * @see #setBlastFromToPosition(int, int)\n */\n","repo_name":"biojava-master/","id":3499,"method_signature":"int getBlastToPosition()"}

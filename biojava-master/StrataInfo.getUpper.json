@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getUpper","method_implementation":"{\n    return upper;\n}","repo_id":"9","comment":"/**\n * @return the upper\n */\n","repo_name":"biojava-master/","id":3518,"method_signature":"ArrayList<Double> getUpper()"}

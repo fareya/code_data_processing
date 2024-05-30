@@ -1,0 +1,1 @@
+{"callee_method_names":["HashMap.remove"],"method_name":"NCBIQBlastAlignmentProperties.removeAlignmentOption","method_implementation":"{\n    param.remove(key);\n}","repo_id":"9","comment":"/**\n * Removes given parameter\n */\n","repo_name":"biojava-master/","id":3482,"method_signature":"void removeAlignmentOption(BlastAlignmentParameterEnum)"}

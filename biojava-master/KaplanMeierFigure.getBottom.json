@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.getBottom","method_implementation":"{\n    return bottom;\n}","repo_id":"9","comment":"/**\n * @return the bottom\n */\n","repo_name":"biojava-master/","id":3801,"method_signature":"int getBottom()"}

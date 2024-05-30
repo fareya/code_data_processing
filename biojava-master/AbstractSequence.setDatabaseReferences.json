@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setDatabaseReferences","method_implementation":"{\n    this.databaseReferences = databaseReferences;\n}","repo_id":"9","comment":"/**\n * @param databaseReferences the databaseReferences to set\n */\n","repo_name":"biojava-master/","id":2935,"method_signature":"void setDatabaseReferences(DatabaseReferenceInterface)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HelixAxisAligner.getSymmetry","method_implementation":"{\n    run();\n    return \"H\";\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.quaternary.core.AxisAligner#getTransformation()\n\t */\n","repo_name":"biojava-master/","id":1959,"method_signature":"String getSymmetry()"}

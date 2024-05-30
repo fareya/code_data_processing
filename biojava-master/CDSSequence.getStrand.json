@@ -1,0 +1,1 @@
+{"callee_method_ids":[3166],"callee_method_names":["TranscriptSequence.getStrand"],"method_name":"CDSSequence.getStrand","method_implementation":"{\n    return parentTranscriptSequence.getStrand();\n}","repo_id":"9","comment":"/**\n * @return get the strand\n */\n","repo_name":"biojava-master/","id":3076,"method_signature":"Strand getStrand()"}

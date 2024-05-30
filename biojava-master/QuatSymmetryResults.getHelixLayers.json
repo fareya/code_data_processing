@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryResults.getHelixLayers","method_implementation":"{\n    return helixLayers;\n}","repo_id":"9","comment":"/**\n * @return helix layers (layer lines) as a list of helices that describe a\n *         helical structure.\n */\n","repo_name":"biojava-master/","id":1927,"method_signature":"HelixLayers getHelixLayers()"}

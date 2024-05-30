@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DNASequence.getComplement","method_implementation":"{\n    return new ComplementSequenceView<NucleotideCompound>(this);\n}","repo_id":"9","comment":"/**\n * Returns a Sequence which will complement every base\n */\n","repo_name":"biojava-master/","id":2640,"method_signature":"SequenceView<NucleotideCompound> getComplement()"}

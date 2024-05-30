@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.getType","method_implementation":"{\n    return type;\n}","repo_id":"9","comment":"/**\n * The feature type\n * @return\n */\n","repo_name":"biojava-master/","id":3081,"method_signature":"String getType()"}

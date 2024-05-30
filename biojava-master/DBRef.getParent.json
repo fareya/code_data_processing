@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.getParent","method_implementation":"{\n    return parent;\n}","repo_id":"9","comment":"/**\n * Get the structure object that this DBRef relates to.\n *\n * @return s a structure object\n * @see #setParent(Structure)\n */\n","repo_name":"biojava-master/","id":1368,"method_signature":"Structure getParent()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBCrystallographicInfo.getSpaceGroup","method_implementation":"{\n    return sg;\n}","repo_id":"9","comment":"/**\n * Get the SpaceGroup\n * @return the spaceGroup\n */\n","repo_name":"biojava-master/","id":1412,"method_signature":"SpaceGroup getSpaceGroup()"}

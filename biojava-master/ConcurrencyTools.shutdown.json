@@ -1,0 +1,1 @@
+{"callee_method_names":["ThreadPoolExecutor.shutdown"],"method_name":"ConcurrencyTools.shutdown","method_implementation":"{\n    if (pool != null) {\n        pool.shutdown();\n    }\n}","repo_id":"9","comment":"/**\n * Disables new tasks from being submitted and closes the thread pool cleanly.\n */\n","repo_name":"biojava-master/","id":2614,"method_signature":"void shutdown()"}

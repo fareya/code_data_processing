@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GeneSequence.getStrand","method_implementation":"{\n    return strand;\n}","repo_id":"9","comment":"/**\n * A gene should have Strand\n * @return the strand\n */\n","repo_name":"biojava-master/","id":3062,"method_signature":"Strand getStrand()"}

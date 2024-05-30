@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DNASequence.setDNAType","method_implementation":"{\n    this.dnaType = dnaType;\n}","repo_id":"9","comment":"/**\n * @param dnaType the dnaType to set\n */\n","repo_name":"biojava-master/","id":2643,"method_signature":"void setDNAType(DNAType)"}

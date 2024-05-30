@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvFitInfo.setStrataInfoHashMap","method_implementation":"{\n    this.strataInfoHashMap = strataInfoHashMap;\n}","repo_id":"9","comment":"/**\n * @param strataInfoHashMap the strataInfoHashMap to set\n */\n","repo_name":"biojava-master/","id":3694,"method_signature":"void setStrataInfoHashMap(LinkedHashMap)"}

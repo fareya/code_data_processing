@@ -1,0 +1,1 @@
+{"callee_method_names":["List<String>.clear"],"method_name":"LocalPDBDirectory.clearExtensions","method_implementation":"{\n    extensions.clear();\n}","repo_id":"9","comment":"/**\n * clear the supported file extensions\n */\n","repo_name":"biojava-master/","id":1125,"method_signature":"void clearExtensions()"}

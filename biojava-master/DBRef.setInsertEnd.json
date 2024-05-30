@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.setInsertEnd","method_implementation":"{\n    this.insertEnd = insertEnd;\n}","repo_id":"9","comment":"/**\n * Ending insertion code of the PDB sequence segment.\n *\n * @param insertEnd insertEnd\n * @see #getInsertEnd()\n */\n","repo_name":"biojava-master/","id":1391,"method_signature":"void setInsertEnd(char)"}

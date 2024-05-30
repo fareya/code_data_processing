@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WorkSheet.getMetaDataColumnsHashMap","method_implementation":"{\n    return metaDataColumnsHashMap;\n}","repo_id":"9","comment":"/**\n * @return the metaDataColumnsHashMap\n */\n","repo_name":"biojava-master/","id":3776,"method_signature":"LinkedHashMap<String,String> getMetaDataColumnsHashMap()"}

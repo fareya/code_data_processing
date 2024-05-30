@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ProteinModificationImpl.build","method_implementation":"{\n    return new ProteinModificationImpl(this);\n}","repo_id":"9","comment":"/**\n * @return build ProteinModification.\n */\n","repo_name":"biojava-master/","id":231,"method_signature":"ProteinModificationImpl build()"}

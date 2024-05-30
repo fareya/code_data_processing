@@ -1,0 +1,1 @@
+{"callee_method_names":["TreeMap<Key, Value>.get"],"method_name":"SymbolTable.get","method_implementation":"{\n    return st.get(key);\n}","repo_id":"9","comment":"/**\n * Return the value paired with given key; null if key is not in table.\n */\n","repo_name":"biojava-master/","id":855,"method_signature":"Value get(Key)"}

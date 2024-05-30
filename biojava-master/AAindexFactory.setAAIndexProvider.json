@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AAindexFactory.setAAIndexProvider","method_implementation":"{\n    AAindexFactory.provider = provider;\n}","repo_id":"9","comment":"/**\n * Sets the singleton provider.\n * @param provider\n */\n","repo_name":"biojava-master/","id":2513,"method_signature":"void setAAIndexProvider(AAIndexProvider)"}

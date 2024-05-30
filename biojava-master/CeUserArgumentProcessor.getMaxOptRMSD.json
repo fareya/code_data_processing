@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeUserArgumentProcessor.getMaxOptRMSD","method_implementation":"{\n    return maxOptRMSD;\n}","repo_id":"9","comment":"/**\n * (jCE specific): maximum RMSD that shall be calculated for the alignment.\n *\n *  @return maxOptRMSD parameter\n */\n","repo_name":"biojava-master/","id":795,"method_signature":"Double getMaxOptRMSD()"}

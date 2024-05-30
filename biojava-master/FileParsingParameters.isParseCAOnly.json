@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FileParsingParameters.isParseCAOnly","method_implementation":"{\n    return parseCAOnly;\n}","repo_id":"9","comment":"/**\n * The flag if only the C-alpha atoms of the structure should be parsed.\n *\n * @return the flag\n */\n","repo_name":"biojava-master/","id":1319,"method_signature":"boolean isParseCAOnly()"}

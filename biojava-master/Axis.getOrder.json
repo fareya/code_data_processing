@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Axis.getOrder","method_implementation":"{\n    return order;\n}","repo_id":"9","comment":"/**\n * Get the order of this axis (closed symm) or the number of repeats\n * (open symm)\n * @return the order\n */\n","repo_name":"biojava-master/","id":2107,"method_signature":"int getOrder()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceOptimizationHints.setSequenceUsage","method_implementation":"{\n    sequenceUsage = aSequenceUsage;\n}","repo_id":"9","comment":"/**\n * @param aSequenceUsage the sequenceUsage to set\n */\n","repo_name":"biojava-master/","id":2631,"method_signature":"void setSequenceUsage(SequenceUsage)"}

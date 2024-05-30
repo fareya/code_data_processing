@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QsAlignResult.getSubunits1","method_implementation":"{\n    return Collections.unmodifiableList(subunits1);\n}","repo_id":"9","comment":"/**\n * Original Subunits of the first group.\n *\n * @return an unmodifiable view of the original List\n */\n","repo_name":"biojava-master/","id":445,"method_signature":"List<Subunit> getSubunits1()"}

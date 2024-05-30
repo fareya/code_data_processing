@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HeaderInfo.setHide","method_implementation":"{\n    this.hide = hide;\n}","repo_id":"9","comment":"/**\n * @param hide the hide to set\n */\n","repo_name":"biojava-master/","id":3701,"method_signature":"void setHide(boolean)"}

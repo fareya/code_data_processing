@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.setClusterValue","method_implementation":"{\n    this.clusterValue = clusterValue;\n}","repo_id":"9","comment":"/**\n * @param clusterValue the clusterValue to set\n */\n","repo_name":"biojava-master/","id":3668,"method_signature":"void setClusterValue(String)"}

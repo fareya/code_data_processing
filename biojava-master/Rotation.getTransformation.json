@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.getTransformation","method_implementation":"{\n    return transformation;\n}","repo_id":"9","comment":"/**\n * @return the transformation\n */\n","repo_name":"biojava-master/","id":1859,"method_signature":"Matrix4d getTransformation()"}

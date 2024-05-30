@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructurePairAligner.setParams","method_implementation":"{\n    this.params = params;\n}","repo_id":"9","comment":"/**\n * set the parameters to be used for the algorithm\n *\n * @param params\n *            the Parameter object\n */\n","repo_name":"biojava-master/","id":548,"method_signature":"void setParams(StrucAligParameters)"}

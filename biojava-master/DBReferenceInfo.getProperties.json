@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBReferenceInfo.getProperties","method_implementation":"{\n    return properties;\n}","repo_id":"9","comment":"/**\n * Get the properties\n * @return the properties\n */\n","repo_name":"biojava-master/","id":3104,"method_signature":"LinkedHashMap<String,String> getProperties()"}

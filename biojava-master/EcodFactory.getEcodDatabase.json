@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodFactory.getEcodDatabase","method_implementation":"{\n    return getEcodDatabase(defaultVersion);\n}","repo_id":"9","comment":"/**\n * Returns the (singleton) database for the current default version\n */\n","repo_name":"biojava-master/","id":1798,"method_signature":"EcodDatabase getEcodDatabase()"}

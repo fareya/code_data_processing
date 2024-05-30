@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.setStdlow","method_implementation":"{\n    this.stdlow = stdlow;\n}","repo_id":"9","comment":"/**\n * @param stdlow the stdlow to set\n */\n","repo_name":"biojava-master/","id":3528,"method_signature":"void setStdlow(ArrayList)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitClustererParameters.setClustererMethod","method_implementation":"{\n    this.clustererMethod = method;\n}","repo_id":"9","comment":"/**\n * Method to cluster subunits.\n *\n * @param method\n */\n","repo_name":"biojava-master/","id":1633,"method_signature":"void setClustererMethod(SubunitClustererMethod)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getChiSquare","method_implementation":"{\n    return scoreLogrankTest;\n}","repo_id":"9","comment":"/**\n * @return the scoreLogrankTest\n */\n","repo_name":"biojava-master/","id":3624,"method_signature":"double getChiSquare()"}

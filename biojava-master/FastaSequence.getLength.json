@@ -1,0 +1,1 @@
+{"callee_method_names":["String.length"],"method_name":"FastaSequence.getLength","method_implementation":"{\n    return sequence.length();\n}","repo_id":"9","comment":"/**\n * @return sequence length\n */\n","repo_name":"biojava-master/","id":207,"method_signature":"int getLength()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.setHazardRatio","method_implementation":"{\n    this.hazardRatio = hazardRatio;\n}","repo_id":"9","comment":"/**\n * @param hazardRatio the hazardRatio to set\n */\n","repo_name":"biojava-master/","id":3546,"method_signature":"void setHazardRatio(double)"}

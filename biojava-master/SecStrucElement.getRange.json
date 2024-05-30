@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SecStrucElement.getRange","method_implementation":"{\n    return range;\n}","repo_id":"9","comment":"/**\n * Returns the residue range of this SSE.\n *\n * @return\n */\n","repo_name":"biojava-master/","id":1585,"method_signature":"ResidueRangeAndLength getRange()"}

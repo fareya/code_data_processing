@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getNaive_imat","method_implementation":"{\n    return naive_imat;\n}","repo_id":"9","comment":"/**\n * @return the naive_imat\n */\n","repo_name":"biojava-master/","id":3640,"method_signature":"double[][] getNaive_imat()"}

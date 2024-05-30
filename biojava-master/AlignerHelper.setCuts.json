@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlignerHelper.setCuts","method_implementation":"{\n    for (Cut c : cuts) {\n        c.update(x, subproblem, pointers);\n    }\n}","repo_id":"9","comment":"// updates cut rows given the latest row of traceback pointers\n","repo_name":"biojava-master/","id":80,"method_signature":"void setCuts(int, Subproblem, Last[][], Cut[])"}

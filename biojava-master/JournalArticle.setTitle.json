@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.setTitle","method_implementation":"{\n    this.title = title;\n}","repo_id":"9","comment":"/**\n * Set the value of title\n *\n * @param title new value of title\n */\n","repo_name":"biojava-master/","id":1535,"method_signature":"void setTitle(String)"}

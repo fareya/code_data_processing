@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.setRefn","method_implementation":"{\n    this.refn = refn;\n}","repo_id":"9","comment":"/**\n * Set the value of the refn\n *\n * @param refn new value of refn\n */\n","repo_name":"biojava-master/","id":1533,"method_signature":"void setRefn(String)"}

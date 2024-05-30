@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryParameters.useLocalTimeLimit","method_implementation":"{\n    this.localTimeStart = localTimeStart;\n}","repo_id":"9","comment":"/**\n * @param localTimeStart\n *            the time when local calculations started\n */\n","repo_name":"biojava-master/","id":1914,"method_signature":"void useLocalTimeLimit(double)"}

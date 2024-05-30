@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.length","method_implementation":"{\n    return mEnd - mStart;\n}","repo_id":"9","comment":"/**\n * Get length of range.\n *\n * @return The length of the range (end - start).\n */\n","repo_name":"biojava-master/","id":2401,"method_signature":"int length()"}

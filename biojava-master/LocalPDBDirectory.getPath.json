@@ -1,0 +1,1 @@
+{"callee_method_names":["File.toString"],"method_name":"LocalPDBDirectory.getPath","method_implementation":"{\n    return path.toString();\n}","repo_id":"9","comment":"/**\n * Returns the path value.\n * @return a String representing the path value\n * @see #setPath\n */\n","repo_name":"biojava-master/","id":1123,"method_signature":"String getPath()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.getDbAccession","method_implementation":"{\n    return dbAccession;\n}","repo_id":"9","comment":"/**\n * Sequence database accession code.\n * @return the dbAccession\n * @see #setDbAccession(String)\n */\n","repo_name":"biojava-master/","id":1378,"method_signature":"String getDbAccession()"}

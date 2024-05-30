@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SymmetryGui.actionPerformed","method_implementation":"{\n    // Perform action...\n    abortCalc();\n    dispose();\n    System.exit(0);\n}","repo_id":"9","comment":"// This method is called when the button is pressed\n","repo_name":"biojava-master/","id":3427,"method_signature":"void actionPerformed(ActionEvent)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleGapPenalty.setDefaultExtensionPenalty","method_implementation":"{\n    dgep = gep;\n}","repo_id":"9","comment":"/**\n * Sets the default gap extension penalty.\n *\n * @param gep the default gap extension penalty\n */\n","repo_name":"biojava-master/","id":0,"method_signature":"void setDefaultExtensionPenalty(int)"}

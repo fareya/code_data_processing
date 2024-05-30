@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceFileProxyLoader.getLength","method_implementation":"{\n    return sequenceLength;\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3150,"method_signature":"int getLength()"}

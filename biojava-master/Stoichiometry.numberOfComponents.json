@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.size"],"method_name":"Stoichiometry.numberOfComponents","method_implementation":"{\n    return orderedClusters.size();\n}","repo_id":"9","comment":"/**\n * @return Number of distinct components in this stoichiometry.\n */\n","repo_name":"biojava-master/","id":1890,"method_signature":"int numberOfComponents()"}

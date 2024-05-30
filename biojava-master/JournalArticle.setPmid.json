@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.setPmid","method_implementation":"{\n    this.pmid = pmid;\n}","repo_id":"9","comment":"/**\n * Set the value of pmid\n *\n * @param pmid new value of pmid\n */\n","repo_name":"biojava-master/","id":1529,"method_signature":"void setPmid(String)"}

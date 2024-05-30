@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Subunit>.size"],"method_name":"QuatSymmetryResults.getSubunitCount","method_implementation":"{\n    return subunits.size();\n}","repo_id":"9","comment":"/**\n * Return the number of Subunits involved in the symmetry.\n *\n * @return the number of Subunits\n */\n","repo_name":"biojava-master/","id":1925,"method_signature":"int getSubunitCount()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HelloWorld.print","method_implementation":"{\n    System.out.println(\"Hello World!\");\n}","repo_id":"9","comment":"/**\n * Prints hello world on command line\n */\n","repo_name":"biojava-master/","id":2338,"method_signature":"void print()"}

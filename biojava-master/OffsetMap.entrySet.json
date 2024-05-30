@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"OffsetMap.entrySet","method_implementation":"{\n    return Collections.emptySet();\n}","repo_id":"9","comment":"/**\n * Always returns the empty set\n */\n","repo_name":"biojava-master/","id":146,"method_signature":"Set<java.util.Map.Entry<Double,Integer>> entrySet()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryResults.getRotationGroup","method_implementation":"{\n    return rotationGroup;\n}","repo_id":"9","comment":"/**\n * @return rotation group (point group) information representing rotational\n *         quaternary symmetry.\n */\n","repo_name":"biojava-master/","id":1926,"method_signature":"RotationGroup getRotationGroup()"}

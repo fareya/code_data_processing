@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JMatrixPanel.getCellColor","method_implementation":"{\n    return cellColor;\n}","repo_id":"9","comment":"/**\n * @return the color mapping of the JMatrixPanel\n */\n","repo_name":"biojava-master/","id":3315,"method_signature":"ContinuousColorMapper getCellColor()"}

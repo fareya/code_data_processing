@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QsAlignParameters.getMaxRmsd","method_implementation":"{\n    return maxRmsd;\n}","repo_id":"9","comment":"/**\n * The maximum allowed RMSD of the alignment, in A.\n *\n * @return maxRmsd\n */\n","repo_name":"biojava-master/","id":460,"method_signature":"double getMaxRmsd()"}

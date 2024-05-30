@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractPairwiseSequenceAligner.setTarget","method_implementation":"{\n    this.target = target;\n    reset();\n}","repo_id":"9","comment":"/**\n * Sets the target {@link Sequence}.\n *\n * @param target the second {@link Sequence} of the pair to align\n */\n","repo_name":"biojava-master/","id":56,"method_signature":"void setTarget(S)"}

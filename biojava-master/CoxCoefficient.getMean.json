@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getMean","method_implementation":"{\n    return mean;\n}","repo_id":"9","comment":"/**\n * @return the mean\n */\n","repo_name":"biojava-master/","id":3539,"method_signature":"double getMean()"}

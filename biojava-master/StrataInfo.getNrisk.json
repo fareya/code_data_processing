@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getNrisk","method_implementation":"{\n    return nrisk;\n}","repo_id":"9","comment":"/**\n * @return the nrisk\n */\n","repo_name":"biojava-master/","id":3523,"method_signature":"ArrayList<Double> getNrisk()"}

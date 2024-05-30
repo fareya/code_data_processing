@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.getChildrenFeatures","method_implementation":"{\n    return childrenFeatures;\n}","repo_id":"9","comment":"/**\n * Get the children features\n * @return\n */\n","repo_name":"biojava-master/","id":3086,"method_signature":"List<FeatureInterface<S,C>> getChildrenFeatures()"}

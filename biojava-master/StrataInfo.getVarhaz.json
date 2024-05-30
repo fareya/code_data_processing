@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getVarhaz","method_implementation":"{\n    return varhaz;\n}","repo_id":"9","comment":"/**\n * @return the varhaz\n */\n","repo_name":"biojava-master/","id":3526,"method_signature":"ArrayList<Double> getVarhaz()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolSymmetryScriptGeneratorPointGroup.getRotationGroup","method_implementation":"{\n    return rotationGroup;\n}","repo_id":"9","comment":"/**\n * @return the rotationGroup\n */\n","repo_name":"biojava-master/","id":3403,"method_signature":"RotationGroup getRotationGroup()"}

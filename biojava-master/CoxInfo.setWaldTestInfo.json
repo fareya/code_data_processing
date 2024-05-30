@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.setWaldTestInfo","method_implementation":"{\n    this.waldTestInfo = waldTestInfo;\n}","repo_id":"9","comment":"/**\n * @param waldTestInfo the waldTestInfo to set\n */\n","repo_name":"biojava-master/","id":3642,"method_signature":"void setWaldTestInfo(WaldTestInfo)"}

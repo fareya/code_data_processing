@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setBioBegin","method_implementation":"{\n    this.bioBegin = bioBegin;\n}","repo_id":"9","comment":"/**\n * @param bioBegin the bioBegin to set\n */\n","repo_name":"biojava-master/","id":2901,"method_signature":"void setBioBegin(Integer)"}

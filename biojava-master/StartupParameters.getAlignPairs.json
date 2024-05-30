@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StartupParameters.getAlignPairs","method_implementation":"{\n    return alignPairs;\n}","repo_id":"9","comment":"/**\n * The file that contains a list of PDB pairs to be aligned\n *\n * @return\n */\n","repo_name":"biojava-master/","id":765,"method_signature":"String getAlignPairs()"}

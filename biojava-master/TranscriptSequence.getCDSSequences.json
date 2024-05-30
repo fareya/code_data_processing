@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"TranscriptSequence.getCDSSequences","method_implementation":"{\n    return cdsSequenceHashMap;\n}","repo_id":"9","comment":"/**\n * Get the CDS sequences that have been added to the TranscriptSequences\n * @return\n */\n","repo_name":"biojava-master/","id":3168,"method_signature":"LinkedHashMap<String,CDSSequence> getCDSSequences()"}

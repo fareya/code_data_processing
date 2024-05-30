@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleGapPenalty.setOpenPenalty","method_implementation":"{\n    this.gop = -Math.abs(gop);\n    setType();\n}","repo_id":"9","comment":"/**\n * @param gop Should be nonnegative\n */\n","repo_name":"biojava-master/","id":5,"method_signature":"void setOpenPenalty(int)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Matrix.diag","method_implementation":"{\n    double[][] d = new double[A.length][A.length];\n    for (int i = 0; i < d.length; i++) {\n        d[i][i] = A[i];\n    }\n    return d;\n}","repo_id":"9","comment":"/**\n * @param A\n * @return\n */\n","repo_name":"biojava-master/","id":3574,"method_signature":"double[][] diag(double[])"}

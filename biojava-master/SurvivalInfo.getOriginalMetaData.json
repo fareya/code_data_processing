@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.get"],"method_name":"SurvivalInfo.getOriginalMetaData","method_implementation":"{\n    return originalMetaData.get(variable);\n}","repo_id":"9","comment":"/**\n * @param variable\n * @return\n */\n","repo_name":"biojava-master/","id":3646,"method_signature":"String getOriginalMetaData(String)"}

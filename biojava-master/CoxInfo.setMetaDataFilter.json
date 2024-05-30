@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.setMetaDataFilter","method_implementation":"{\n    this.metaDataFilter = metaDataFilter;\n}","repo_id":"9","comment":"/**\n * @param metaDataFilter the metaDataFilter to set\n */\n","repo_name":"biojava-master/","id":3636,"method_signature":"void setMetaDataFilter(LinkedHashMap)"}

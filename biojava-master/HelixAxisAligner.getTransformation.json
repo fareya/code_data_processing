@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HelixAxisAligner.getTransformation","method_implementation":"{\n    run();\n    return transformationMatrix;\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.quaternary.core.AxisAligner#getTransformation()\n\t */\n","repo_name":"biojava-master/","id":1960,"method_signature":"Matrix4d getTransformation()"}

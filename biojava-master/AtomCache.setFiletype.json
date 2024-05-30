@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomCache.setFiletype","method_implementation":"{\n    this.filetype = filetype;\n}","repo_id":"9","comment":"/**\n * Set the file type that will be parsed.\n * @param filetype a StructureFiletype\n */\n","repo_name":"biojava-master/","id":641,"method_signature":"void setFiletype(StructureFiletype)"}

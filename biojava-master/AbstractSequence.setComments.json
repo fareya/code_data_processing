@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setComments","method_implementation":"{\n    this.comments = comments;\n}","repo_id":"9","comment":"/**\n * Set comments.\n * @param comments\n */\n","repo_name":"biojava-master/","id":2931,"method_signature":"void setComments(List)"}

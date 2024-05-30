@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceFileProxyLoader.getIndexOf","method_implementation":"{\n    return this.parsedCompounds.indexOf(compound) + 1;\n}","repo_id":"9","comment":"/**\n * @param compound\n * @return\n */\n","repo_name":"biojava-master/","id":3152,"method_signature":"int getIndexOf(C)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FastqParserLineProcessor.getState","method_implementation":"{\n    return state;\n}","repo_id":"9","comment":"/**\n * Return the parser state.\n *\n * @return the parser state\n */\n","repo_name":"biojava-master/","id":2353,"method_signature":"State getState()"}

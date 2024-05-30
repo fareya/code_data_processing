@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"IUPACParser.getTables","method_implementation":"{\n    if (tables == null) {\n        tables = parseTables();\n    }\n    return tables;\n}","repo_id":"9","comment":"/**\n * Returns a list of all available IUPAC tables\n */\n","repo_name":"biojava-master/","id":2774,"method_signature":"List<IUPACTable> getTables()"}

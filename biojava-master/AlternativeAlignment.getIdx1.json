@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlternativeAlignment.getIdx1","method_implementation":"{\n    return idx1;\n}","repo_id":"9","comment":"/**\n * the positions of the structure equivalent positions in atom set 1\n *\n * @return the array of the positions\n */\n","repo_name":"biojava-master/","id":817,"method_signature":"int[] getIdx1()"}

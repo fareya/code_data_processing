@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.setRelDate","method_implementation":"{\n    this.relDate = relDate;\n}","repo_id":"9","comment":"/**\n * The release date of the structure in the PDB.\n *\n * @param relDate the release date\n */\n","repo_name":"biojava-master/","id":1777,"method_signature":"void setRelDate(Date)"}

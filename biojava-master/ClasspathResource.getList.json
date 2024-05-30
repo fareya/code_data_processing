@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ClasspathResource.getList","method_implementation":"{\n    return IOUtils.getList(getBufferedReader());\n}","repo_id":"9","comment":"/**\n * Returns this resource as a list of Strings\n */\n","repo_name":"biojava-master/","id":2805,"method_signature":"List<String> getList()"}

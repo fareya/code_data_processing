@@ -1,0 +1,1 @@
+{"callee_method_names":["NavigableMap<Double, Color>.entrySet"],"method_name":"GradientMapper.entrySet","method_implementation":"{\n    return mapping.entrySet();\n}","repo_id":"9","comment":"/**\n * @return\n * @see java.util.Map#entrySet()\n */\n","repo_name":"biojava-master/","id":3352,"method_signature":"Set<java.util.Map.Entry<Double,Color>> entrySet()"}

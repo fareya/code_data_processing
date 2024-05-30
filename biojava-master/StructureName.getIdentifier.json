@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureName.getIdentifier","method_implementation":"{\n    return name;\n}","repo_id":"9","comment":"/**\n * Get the original form of the identifier\n */\n","repo_name":"biojava-master/","id":467,"method_signature":"String getIdentifier()"}

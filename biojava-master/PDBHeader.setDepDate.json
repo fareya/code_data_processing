@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.setDepDate","method_implementation":"{\n    this.depDate = depDate;\n}","repo_id":"9","comment":"/**\n * The deposition date of the structure in the PDB\n *\n * @param depDate the deposition date\n */\n","repo_name":"biojava-master/","id":1770,"method_signature":"void setDepDate(Date)"}

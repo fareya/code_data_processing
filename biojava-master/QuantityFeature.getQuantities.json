@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuantityFeature.getQuantities","method_implementation":"{\n    return quantities;\n}","repo_id":"9","comment":"/**\n * @return the quantities\n */\n","repo_name":"biojava-master/","id":3111,"method_signature":"List<Number> getQuantities()"}

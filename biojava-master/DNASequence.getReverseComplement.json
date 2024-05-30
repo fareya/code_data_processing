@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DNASequence.getReverseComplement","method_implementation":"{\n    return getInverse();\n}","repo_id":"9","comment":"/**\n * Delegates to {@link #getInverse() } for the reverse complement\n */\n","repo_name":"biojava-master/","id":2641,"method_signature":"SequenceView<NucleotideCompound> getReverseComplement()"}

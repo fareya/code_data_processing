@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NCBIQBlastService.getEmail","method_implementation":"{\n    return this.email;\n}","repo_id":"9","comment":"/**\n * Get the email for QBlast. Defaults to {@value #DEFAULT_EMAIL}.\n *\n * @return the email\n */\n","repo_name":"biojava-master/","id":3475,"method_signature":"String getEmail()"}

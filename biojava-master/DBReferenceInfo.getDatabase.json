@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBReferenceInfo.getDatabase","method_implementation":"{\n    return database;\n}","repo_id":"9","comment":"/**\n * @return the database\n */\n","repo_name":"biojava-master/","id":3106,"method_signature":"String getDatabase()"}

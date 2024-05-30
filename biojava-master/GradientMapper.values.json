@@ -1,0 +1,1 @@
+{"callee_method_names":["NavigableMap<Double, Color>.values"],"method_name":"GradientMapper.values","method_implementation":"{\n    return mapping.values();\n}","repo_id":"9","comment":"/**\n * @return\n * @see java.util.Map#values()\n */\n","repo_name":"biojava-master/","id":3360,"method_signature":"Collection<Color> values()"}

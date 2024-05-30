@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ResidueRangeAndLength.getLength","method_implementation":"{\n    return length;\n}","repo_id":"9","comment":"/**\n * @return The number of residues in this ResidueRange\n */\n","repo_name":"biojava-master/","id":1716,"method_signature":"int getLength()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AminoAcidImpl.getAminoType","method_implementation":"{\n    return amino_char;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1358,"method_signature":"Character getAminoType()"}

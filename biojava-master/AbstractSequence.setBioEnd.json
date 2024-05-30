@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setBioEnd","method_implementation":"{\n    this.bioEnd = bioEnd;\n}","repo_id":"9","comment":"/**\n * @param bioEnd the bioEnd to set\n */\n","repo_name":"biojava-master/","id":2903,"method_signature":"void setBioEnd(Integer)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleGapPenalty.getExtensionPenalty","method_implementation":"{\n    return gep;\n}","repo_id":"9","comment":"/**\n * <strong>Returns the negative of the extension penalty passed to the constructor.<\/strong>\n */\n","repo_name":"biojava-master/","id":2,"method_signature":"int getExtensionPenalty()"}

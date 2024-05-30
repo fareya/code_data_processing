@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.setMaxGapSize","method_implementation":"{\n    this.maxGapSize = maxGapSize;\n}","repo_id":"9","comment":"/**\n * Set the Max gap size parameter. Default 30. For unlimited gaps set to -1\n *\n * @param maxGapSize\n */\n","repo_name":"biojava-master/","id":750,"method_signature":"void setMaxGapSize(Integer)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Feature.type","method_implementation":"{\n    return mType;\n}","repo_id":"9","comment":"/**\n * Get feature type, such as \"exon\" or \"CDS\". (GFF field 3).\n *\n * @return Feature type.\n */\n","repo_name":"biojava-master/","id":2453,"method_signature":"String type()"}

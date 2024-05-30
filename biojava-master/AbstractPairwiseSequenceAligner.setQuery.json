@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractPairwiseSequenceAligner.setQuery","method_implementation":"{\n    this.query = query;\n    reset();\n}","repo_id":"9","comment":"/**\n * Sets the query {@link Sequence}.\n *\n * @param query the first {@link Sequence} of the pair to align\n */\n","repo_name":"biojava-master/","id":55,"method_signature":"void setQuery(S)"}

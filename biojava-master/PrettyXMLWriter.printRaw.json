@@ -1,0 +1,1 @@
+{"callee_method_names":["PrintWriter.println"],"method_name":"PrettyXMLWriter.printRaw","method_implementation":"{\n    writer.println(data);\n}","repo_id":"9","comment":"// does not work for adding literal XML elements.\n","repo_name":"biojava-master/","id":2629,"method_signature":"void printRaw(String)"}

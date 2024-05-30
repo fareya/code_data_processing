@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StockholmFileAnnotation.getGatheringThreshs","method_implementation":"{\n    return gatheringThreshs;\n}","repo_id":"9","comment":"/**\n * Not always 2.<br>\n *  It may undergo further change.\n *  @return\n */\n","repo_name":"biojava-master/","id":33,"method_signature":"float[] getGatheringThreshs()"}

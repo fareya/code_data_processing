@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Feature.source","method_implementation":"{\n    return mSource;\n}","repo_id":"9","comment":"/**\n * Get source (aka method). (GFF field 2). This is often the name of\n * the program or procedure that created the features.\n *\n * @return Source field.\n */\n","repo_name":"biojava-master/","id":2452,"method_signature":"String source()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AminoAcidImpl.getCA","method_implementation":"{\n    // note CA can also be Calcium, but that can't happen in a standard aminoacid, so this should be safe\n    return getAtom(\"CA\");\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1354,"method_signature":"Atom getCA()"}

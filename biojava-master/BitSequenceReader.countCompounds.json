@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BitSequenceReader.countCompounds","method_implementation":"{\n    return SequenceMixin.countCompounds(this, compounds);\n}","repo_id":"9","comment":"/**\n * Counts the number of times a compound appears in this sequence store\n */\n","repo_name":"biojava-master/","id":2985,"method_signature":"int countCompounds(C[])"}

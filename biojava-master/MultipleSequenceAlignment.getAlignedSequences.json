@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MultipleSequenceAlignment.getAlignedSequences","method_implementation":"{\n    return Collections.unmodifiableList(sequences);\n}","repo_id":"9","comment":"/**\n * Get the list of sequences\n * @return list of sequences\n */\n","repo_name":"biojava-master/","id":2672,"method_signature":"List<S> getAlignedSequences()"}

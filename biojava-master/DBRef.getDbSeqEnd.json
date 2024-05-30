@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.getDbSeqEnd","method_implementation":"{\n    return dbSeqEnd;\n}","repo_id":"9","comment":"/**\n * Ending sequence position  of the database segment.\n * @return dbSeqEnd\n * @see #setDbSeqEnd(int)\n */\n","repo_name":"biojava-master/","id":1384,"method_signature":"int getDbSeqEnd()"}

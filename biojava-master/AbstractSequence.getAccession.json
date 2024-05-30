@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getAccession","method_implementation":"{\n    return accession;\n}","repo_id":"9","comment":"/**\n * @return the accession\n */\n","repo_name":"biojava-master/","id":2936,"method_signature":"AccessionID getAccession()"}

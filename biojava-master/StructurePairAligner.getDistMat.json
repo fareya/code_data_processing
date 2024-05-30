@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructurePairAligner.getDistMat","method_implementation":"{\n    return distanceMatrix;\n}","repo_id":"9","comment":"/**\n * return the difference of distance matrix between the two structures\n *\n * @return a Matrix\n */\n","repo_name":"biojava-master/","id":546,"method_signature":"Matrix getDistMat()"}

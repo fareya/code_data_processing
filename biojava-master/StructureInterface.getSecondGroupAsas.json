@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureInterface.getSecondGroupAsas","method_implementation":"{\n    return groupAsas2;\n}","repo_id":"9","comment":"/**\n * Gets a map of ResidueNumbers to GroupAsas for all groups of second chain.\n * @return\n */\n","repo_name":"biojava-master/","id":885,"method_signature":"Map<ResidueNumber,GroupAsa> getSecondGroupAsas()"}

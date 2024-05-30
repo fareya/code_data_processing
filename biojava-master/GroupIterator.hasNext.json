@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupIterator.hasNext","method_implementation":"{\n    return hasSubGroup(current_model_pos, current_chain_pos, current_group_pos + 1);\n}","repo_id":"9","comment":"/**\n * is there a group after the current one in the structure?\n */\n","repo_name":"biojava-master/","id":400,"method_signature":"boolean hasNext()"}

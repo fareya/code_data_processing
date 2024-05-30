@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Axis.getFirstRepeat","method_implementation":"{\n    return firstRepeat;\n}","repo_id":"9","comment":"/**\n * Get the index of the first repeat used by this axis\n * @return the firstRepeat\n */\n","repo_name":"biojava-master/","id":2112,"method_signature":"int getFirstRepeat()"}

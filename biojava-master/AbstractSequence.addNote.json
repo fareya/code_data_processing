@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.add"],"method_name":"AbstractSequence.addNote","method_implementation":"{\n    notesList.add(note);\n}","repo_id":"9","comment":"/**\n * Add notes about this sequence that will get exported for GFF3\n * @param note\n */\n","repo_name":"biojava-master/","id":2916,"method_signature":"void addNote(String)"}

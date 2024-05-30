@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Model>.get"],"method_name":"StructureImpl.size","method_implementation":"{\n    return models.get(modelnr).size();\n}","repo_id":"9","comment":"/**\n * return number of chains  of model.\n */\n","repo_name":"biojava-master/","id":2129,"method_signature":"int size(int)"}

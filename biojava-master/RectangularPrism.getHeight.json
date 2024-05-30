@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RectangularPrism.getHeight","method_implementation":"{\n    return height;\n}","repo_id":"9","comment":"/**\n * Returns the radius of a sphere, that is tangent to each\n * of the octahedron's edges\n *\n * @return the midRadius\n */\n","repo_name":"biojava-master/","id":2028,"method_signature":"double getHeight()"}

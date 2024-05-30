@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.setChainRmsd","method_implementation":"{\n    this.chainRmsd = chainRmsd;\n}","repo_id":"9","comment":"/**\n * The RMSD of the chain of AFPs. Set during AFPCHainer.traceBack();\n *\n * @param chainRmsd\n */\n","repo_name":"biojava-master/","id":486,"method_signature":"void setChainRmsd(double)"}

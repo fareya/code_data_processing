@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getCompoundAt","method_implementation":"{\n    return getSequenceStorage().getCompoundAt(position);\n}","repo_id":"9","comment":"/**\n * @param position The 1-indexed position of the amino acid\n * @return\n */\n","repo_name":"biojava-master/","id":2943,"method_signature":"C getCompoundAt(int)"}

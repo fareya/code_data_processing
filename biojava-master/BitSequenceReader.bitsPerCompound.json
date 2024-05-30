@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BitSequenceReader.bitsPerCompound","method_implementation":"{\n    return BYTES_PER_INT / compoundsPerDatatype();\n}","repo_id":"9","comment":"/**\n * Returns how many bits are used to represent a compound e.g. 2 if using\n * 2bit encoding.\n */\n","repo_name":"biojava-master/","id":2991,"method_signature":"int bitsPerCompound()"}

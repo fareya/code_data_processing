@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getOptLen","method_implementation":"{\n    return optLen;\n}","repo_id":"9","comment":"/**\n * The length of each block\n * @return lengths\n */\n","repo_name":"biojava-master/","id":490,"method_signature":"int[] getOptLen()"}

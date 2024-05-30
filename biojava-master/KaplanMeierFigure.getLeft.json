@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.getLeft","method_implementation":"{\n    return left;\n}","repo_id":"9","comment":"/**\n * @return the left\n */\n","repo_name":"biojava-master/","id":3802,"method_signature":"int getLeft()"}

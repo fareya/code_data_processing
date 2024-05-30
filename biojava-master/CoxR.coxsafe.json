@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxR.coxsafe","method_implementation":"{\n    if (x < -200) {\n        return -200;\n    }\n    if (x > 22) {\n        return 22;\n    }\n    return x;\n}","repo_id":"9","comment":"/**\n * @param x\n * @return\n */\n","repo_name":"biojava-master/","id":3568,"method_signature":"double coxsafe(double)"}

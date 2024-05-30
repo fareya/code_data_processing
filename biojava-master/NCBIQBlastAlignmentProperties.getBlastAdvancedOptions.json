@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NCBIQBlastAlignmentProperties.getBlastAdvancedOptions","method_implementation":"{\n    return getAlignmentOption(OTHER_ADVANCED);\n}","repo_id":"9","comment":"/**\n * @return the String with the advanced options\n */\n","repo_name":"biojava-master/","id":3501,"method_signature":"String getBlastAdvancedOptions()"}

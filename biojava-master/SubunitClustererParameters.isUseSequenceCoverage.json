@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitClustererParameters.isUseSequenceCoverage","method_implementation":"{\n    return useSequenceCoverage;\n}","repo_id":"9","comment":"/**\n * Use sequence coverage for evaluating sequence similarity\n *\n * @return useSequenceCoverage\n */\n","repo_name":"biojava-master/","id":1644,"method_signature":"boolean isUseSequenceCoverage()"}

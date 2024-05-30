@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"LocalPDBDirectory.setPath","method_implementation":"{\n    path = new File(FileDownloadUtils.expandUserHome(p));\n    initPaths();\n}","repo_id":"9","comment":"/**\n * Sets the path for the directory where PDB files are read/written\n */\n","repo_name":"biojava-master/","id":1122,"method_signature":"void setPath(String)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.get"],"method_name":"CoxVariables.getCoxInfo","method_implementation":"{\n    return coxInfoHashMap.get(name);\n}","repo_id":"9","comment":"/**\n * @param name\n * @return\n */\n","repo_name":"biojava-master/","id":3555,"method_signature":"CoxInfo getCoxInfo(String)"}

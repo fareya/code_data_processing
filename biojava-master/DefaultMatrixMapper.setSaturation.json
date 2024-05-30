@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DefaultMatrixMapper.setSaturation","method_implementation":"{\n    this.saturation = saturation;\n}","repo_id":"9","comment":"/**\n * @param saturation the saturation to set\n */\n","repo_name":"biojava-master/","id":3368,"method_signature":"void setSaturation(float)"}

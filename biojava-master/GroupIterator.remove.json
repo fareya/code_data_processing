@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupIterator.remove","method_implementation":"{\n    throw new UnsupportedOperationException(\"Cannot call remove() for GroupIterator\");\n}","repo_id":"9","comment":"/**\n * does nothing .\n */\n","repo_name":"biojava-master/","id":406,"method_signature":"void remove()"}

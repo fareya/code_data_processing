@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FatCatParameters.getDisCut","method_implementation":"{\n    return disCut;\n}","repo_id":"9","comment":"/**\n * Get the distance cutoff used during AFP chain connectivity checks\n *\n * @return distance Cutoff\n */\n","repo_name":"biojava-master/","id":431,"method_signature":"Double getDisCut()"}

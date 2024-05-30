@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RotationAxis.getRotationPos","method_implementation":"{\n    return rotationPos;\n}","repo_id":"9","comment":"/**\n * Get a position on the rotation axis.\n *\n * Specifically, project the origin onto the rotation axis\n * @return rotationPos\n */\n","repo_name":"biojava-master/","id":559,"method_signature":"Atom getRotationPos()"}

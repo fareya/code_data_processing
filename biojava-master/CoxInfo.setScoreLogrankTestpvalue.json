@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.setScoreLogrankTestpvalue","method_implementation":"{\n    this.scoreLogrankTestpvalue = scoreLogrankTestpvalue;\n}","repo_id":"9","comment":"/**\n * @param scoreLogrankTestpvalue the scoreLogrankTestpvalue to set\n */\n","repo_name":"biojava-master/","id":3634,"method_signature":"void setScoreLogrankTestpvalue(Double)"}

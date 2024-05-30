@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvFitInfo.isWeighted","method_implementation":"{\n    return weighted;\n}","repo_id":"9","comment":"/**\n * @return the weighted\n */\n","repo_name":"biojava-master/","id":3696,"method_signature":"boolean isWeighted()"}

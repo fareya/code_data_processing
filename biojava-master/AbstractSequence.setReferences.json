@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setReferences","method_implementation":"{\n    this.references = references;\n}","repo_id":"9","comment":"/**\n * Set the list of {@link AbstractReference}\n * @since 5.0.0\n * @param references\n */\n","repo_name":"biojava-master/","id":2922,"method_signature":"void setReferences(List)"}

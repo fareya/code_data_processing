@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.setCoeff","method_implementation":"{\n    this.coeff = coeff;\n}","repo_id":"9","comment":"/**\n * @param coeff the coeff to set\n */\n","repo_name":"biojava-master/","id":3542,"method_signature":"void setCoeff(double)"}

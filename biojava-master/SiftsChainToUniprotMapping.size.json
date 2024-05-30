@@ -1,0 +1,1 @@
+{"callee_method_names":["HashMap.size"],"method_name":"SiftsChainToUniprotMapping.size","method_implementation":"{\n    return byChainId.size();\n}","repo_id":"9","comment":"/**\n * Returns the number of mapped entries.\n */\n","repo_name":"biojava-master/","id":1112,"method_signature":"int size()"}

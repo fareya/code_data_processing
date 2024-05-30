@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.isHealthy","method_implementation":"{\n    return (mStart <= mEnd) && ((mStart <= 0 && mEnd <= 0) || (mStart >= 0 && mEnd >= 0));\n}","repo_id":"9","comment":"/**\n */\n","repo_name":"biojava-master/","id":2427,"method_signature":"boolean isHealthy()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["HashMap.put"],"method_name":"FeatureList.addIndex","method_implementation":"{\n    featindex.put(index, null);\n}","repo_id":"9","comment":"/**\n * Add an attribute that will be used as index for queries\n * @param index an attribute_id\n */\n","repo_name":"biojava-master/","id":2450,"method_signature":"void addIndex(String)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractReference.getTitle","method_implementation":"{\n    return title;\n}","repo_id":"9","comment":"/**\n * The title that retrieved from the Reference section.\n *\n * @return\n */\n","repo_name":"biojava-master/","id":3015,"method_signature":"String getTitle()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BitSequenceReader.getCompoundSet","method_implementation":"{\n    return compoundSet;\n}","repo_id":"9","comment":"/**\n * Returns the compound set backing this store\n */\n","repo_name":"biojava-master/","id":3002,"method_signature":"CompoundSet<C> getCompoundSet()"}

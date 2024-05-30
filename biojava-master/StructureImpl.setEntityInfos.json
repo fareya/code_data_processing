@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.setEntityInfos","method_implementation":"{\n    this.entityInfos = molList;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2144,"method_signature":"void setEntityInfos(List)"}

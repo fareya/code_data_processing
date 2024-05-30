@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Qualifier.needsQuotes","method_implementation":"{\n    return needsQuotes;\n}","repo_id":"9","comment":"/**\n * @return the needsQuotes\n */\n","repo_name":"biojava-master/","id":3096,"method_signature":"boolean needsQuotes()"}

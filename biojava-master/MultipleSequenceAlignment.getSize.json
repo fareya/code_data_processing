@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.size"],"method_name":"MultipleSequenceAlignment.getSize","method_implementation":"{\n    return sequences.size();\n}","repo_id":"9","comment":"/**\n * Get the number of sequences in the MSA\n * @return nr of sequences\n */\n","repo_name":"biojava-master/","id":2676,"method_signature":"int getSize()"}

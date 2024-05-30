@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.getModDate","method_implementation":"{\n    return modDate;\n}","repo_id":"9","comment":"/**\n * Return the latest modification date of the structure.\n *\n * @return the latest modification date\n */\n","repo_name":"biojava-master/","id":1774,"method_signature":"Date getModDate()"}

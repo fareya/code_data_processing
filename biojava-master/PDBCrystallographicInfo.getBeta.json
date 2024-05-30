@@ -1,0 +1,1 @@
+{"callee_method_names":["CrystalCell.getBeta"],"method_name":"PDBCrystallographicInfo.getBeta","method_implementation":"{\n    return (float) cell.getBeta();\n}","repo_id":"9","comment":"/**\n * @return the unit cell parameter beta (degrees)\n */\n","repo_name":"biojava-master/","id":1408,"method_signature":"float getBeta()"}

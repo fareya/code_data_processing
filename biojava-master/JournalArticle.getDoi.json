@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.getDoi","method_implementation":"{\n    return doi;\n}","repo_id":"9","comment":"/**\n * Get the value of DOI field.\n * For example: 10.1016/S0969-2126(02)00720-7\n *\n * @return the value of doi\n */\n","repo_name":"biojava-master/","id":1525,"method_signature":"String getDoi()"}

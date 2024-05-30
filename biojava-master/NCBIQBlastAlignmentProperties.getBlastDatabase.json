@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NCBIQBlastAlignmentProperties.getBlastDatabase","method_implementation":"{\n    return getAlignmentOption(DATABASE);\n}","repo_id":"9","comment":"/**\n * @return name of database used with blastall\n */\n","repo_name":"biojava-master/","id":3485,"method_signature":"String getBlastDatabase()"}

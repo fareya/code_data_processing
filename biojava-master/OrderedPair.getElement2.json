@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"OrderedPair.getElement2","method_implementation":"{\n    return element2;\n}","repo_id":"9","comment":"/**\n * @return element2 the second element of an ordered pair\n */\n","repo_name":"biojava-master/","id":949,"method_signature":"T getElement2()"}

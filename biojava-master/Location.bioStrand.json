@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.bioStrand","method_implementation":"{\n    return (isNegative()) ? '-' : '+';\n}","repo_id":"9","comment":"/**\n * Get character representation of strand.\n *\n * @return '+' or '-'\n */\n","repo_name":"biojava-master/","id":2392,"method_signature":"char bioStrand()"}

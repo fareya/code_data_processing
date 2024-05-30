@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getRscore","method_implementation":"{\n    return rscore;\n}","repo_id":"9","comment":"/**\n * @return the rscore\n */\n","repo_name":"biojava-master/","id":3627,"method_signature":"Double getRscore()"}

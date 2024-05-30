@@ -1,0 +1,1 @@
+{"callee_method_names":["SequenceReader<C>.getAsList"],"method_name":"AbstractSequence.getAsList","method_implementation":"{\n    return sequenceStorage.getAsList();\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":2942,"method_signature":"List<C> getAsList()"}

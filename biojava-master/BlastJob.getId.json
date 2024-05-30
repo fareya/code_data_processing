@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BlastJob.getId","method_implementation":"{\n    return id;\n}","repo_id":"9","comment":"/**\n * Request id (RID) as received from QBlast server\n * @return\n */\n","repo_name":"biojava-master/","id":3447,"method_signature":"String getId()"}

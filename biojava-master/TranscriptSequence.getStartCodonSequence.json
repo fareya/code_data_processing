@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"TranscriptSequence.getStartCodonSequence","method_implementation":"{\n    return startCodonSequence;\n}","repo_id":"9","comment":"/**\n * @return the startCodonSequence\n */\n","repo_name":"biojava-master/","id":3174,"method_signature":"StartCodonSequence getStartCodonSequence()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.getRight","method_implementation":"{\n    return right;\n}","repo_id":"9","comment":"/**\n * @return the right\n */\n","repo_name":"biojava-master/","id":3803,"method_signature":"int getRight()"}

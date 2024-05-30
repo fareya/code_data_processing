@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getSequenceScore","method_implementation":"{\n    return sequenceScore;\n}","repo_id":"9","comment":"/**\n * Provide place holder for a metric that indicate a score associated with the sequence\n * @return the sequenceScore\n */\n","repo_name":"biojava-master/","id":2919,"method_signature":"Double getSequenceScore()"}

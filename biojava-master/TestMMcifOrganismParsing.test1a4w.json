@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"TestMMcifOrganismParsing.test1a4w","method_implementation":"{\n    String pdbId = \"1a4w\";\n    checkPDB(pdbId, \"9606\");\n}","repo_id":"9","comment":"// removed this test, since entity 3 of 1a4w has no organism tax_id\n","repo_name":"biojava-master/","id":2219,"method_signature":"void test1a4w()"}

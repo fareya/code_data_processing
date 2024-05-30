@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.setId","method_implementation":"{\n    this.id = id;\n}","repo_id":"9","comment":"/**\n * Set the ID used by Hibernate.\n *\n * @param id the id assigned by Hibernate\n * @see #getId()\n */\n","repo_name":"biojava-master/","id":1366,"method_signature":"void setId(Long)"}

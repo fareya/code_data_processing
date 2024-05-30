@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Bond>.add"],"method_name":"StructureImpl.addSSBond","method_implementation":"{\n    ssbonds.add(ssbond);\n}","repo_id":"9","comment":"/**\n * Adds a single disulfide Bond to this structure\n *\n * @param ssbond the SSBond.\n */\n","repo_name":"biojava-master/","id":2154,"method_signature":"void addSSBond(Bond)"}

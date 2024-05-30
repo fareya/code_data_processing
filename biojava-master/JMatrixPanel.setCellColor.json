@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JMatrixPanel.setCellColor","method_implementation":"{\n    this.cellColor = cellColor;\n}","repo_id":"9","comment":"/**\n * @param cellColor the color mapping of the JMatrixPanel to set\n */\n","repo_name":"biojava-master/","id":3316,"method_signature":"void setCellColor(ContinuousColorMapper)"}

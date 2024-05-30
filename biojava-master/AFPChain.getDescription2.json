@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getDescription2","method_implementation":"{\n    return description2;\n}","repo_id":"9","comment":"/**\n * Get a textual description for the protein 2 of the alignment.\n *\n * @return\n */\n","repo_name":"biojava-master/","id":508,"method_signature":"String getDescription2()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureInterface.getTransforms","method_implementation":"{\n    return transforms;\n}","repo_id":"9","comment":"/**\n * Return the 2 crystal transform operations performed on each of the\n * molecules of this interface.\n * @return\n */\n","repo_name":"biojava-master/","id":875,"method_signature":"Pair<CrystalTransform> getTransforms()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.getSSBonds","method_implementation":"{\n    return ssbonds;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2152,"method_signature":"List<Bond> getSSBonds()"}

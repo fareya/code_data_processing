@@ -1,0 +1,1 @@
+{"callee_method_names":["HashMap.put"],"method_name":"NCBIQBlastOutputProperties.setOutputOption","method_implementation":"{\n    param.put(key, value);\n}","repo_id":"9","comment":"/**\n * Sets the value of specified output parameter\n */\n","repo_name":"biojava-master/","id":3451,"method_signature":"void setOutputOption(BlastOutputParameterEnum, String)"}

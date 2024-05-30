@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RotationGroup.setSymmetryDeviation","method_implementation":"{\n    this.symmetryDeviation = symmetryDeviation;\n}","repo_id":"9","comment":"/**\n * @param symmetryDeviation the symmetryDeviation to set\n */\n","repo_name":"biojava-master/","id":1936,"method_signature":"void setSymmetryDeviation(double)"}

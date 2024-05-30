@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getNdead","method_implementation":"{\n    return ndead;\n}","repo_id":"9","comment":"/**\n * @return the ndead\n */\n","repo_name":"biojava-master/","id":3525,"method_signature":"LinkedHashMap<Double,Integer> getNdead()"}

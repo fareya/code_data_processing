@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.setDbSeqBegin","method_implementation":"{\n    this.dbSeqBegin = dbSeqBegin;\n}","repo_id":"9","comment":"/**\n *  Initial sequence number of the\n * \tdatabase seqment.\n *  @param dbSeqBegin a sequence position\n *  @see #getDbSeqBegin()\n */\n","repo_name":"biojava-master/","id":1383,"method_signature":"void setDbSeqBegin(int)"}

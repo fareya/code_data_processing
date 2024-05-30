@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodInstallation.getDomains","method_implementation":"{\n    return domains;\n}","repo_id":"9","comment":"/**\n * @return a list of all EcodDomains\n */\n","repo_name":"biojava-master/","id":1820,"method_signature":"List<EcodDomain> getDomains()"}

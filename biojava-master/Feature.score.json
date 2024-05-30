@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Feature.score","method_implementation":"{\n    return mScore;\n}","repo_id":"9","comment":"/**\n * Get score. (GFF field 7). The meaning of the score varies from file to file.\n *\n * @return Score value.\n */\n","repo_name":"biojava-master/","id":2455,"method_signature":"double score()"}

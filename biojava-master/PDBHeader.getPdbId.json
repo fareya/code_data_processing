@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.getPdbId","method_implementation":"{\n    return pdbId;\n}","repo_id":"9","comment":"/**\n * Gets the PDB identifier for this protein structure.\n *\n * @return the {@link PdbId} PDB identifier\n * @see #setPdbId(PdbId)\n * @since 6.0.0\n */\n","repo_name":"biojava-master/","id":1767,"method_signature":"PdbId getPdbId()"}

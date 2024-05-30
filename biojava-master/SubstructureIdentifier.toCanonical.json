@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubstructureIdentifier.toCanonical","method_implementation":"{\n    return this;\n}","repo_id":"9","comment":"/**\n * Return itself. SubstructureIdentifiers are canonical!\n */\n","repo_name":"biojava-master/","id":1611,"method_signature":"SubstructureIdentifier toCanonical()"}

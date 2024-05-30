@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodInstallation.setUrl","method_implementation":"{\n    this.url = url;\n}","repo_id":"9","comment":"/**\n * Specify a different mirror for the ECOD server.\n * @param urlFormat the urlFormat to set\n */\n","repo_name":"biojava-master/","id":1808,"method_signature":"void setUrl(String)"}

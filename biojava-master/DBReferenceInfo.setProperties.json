@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBReferenceInfo.setProperties","method_implementation":"{\n    this.properties = properties;\n}","repo_id":"9","comment":"/**\n * @param properties the properties to set\n */\n","repo_name":"biojava-master/","id":3105,"method_signature":"void setProperties(LinkedHashMap)"}

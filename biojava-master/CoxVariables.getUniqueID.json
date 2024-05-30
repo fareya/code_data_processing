@@ -1,0 +1,1 @@
+{"callee_method_names":["String.hashCode"],"method_name":"CoxVariables.getUniqueID","method_implementation":"{\n    String link = geneSet + \"_\" + cohortName;\n    return link.hashCode();\n}","repo_id":"9","comment":"/**\n * Need a unique id from String\n *\n * @return\n */\n","repo_name":"biojava-master/","id":3553,"method_signature":"int getUniqueID()"}

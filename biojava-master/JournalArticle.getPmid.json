@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.getPmid","method_implementation":"{\n    return pmid;\n}","repo_id":"9","comment":"/**\n * Get the value of PMID field.\n * For example: 12005435\n *\n * @return the value of pmid\n */\n","repo_name":"biojava-master/","id":1528,"method_signature":"String getPmid()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getTotalRmsdOpt","method_implementation":"{\n    return totalRmsdOpt;\n}","repo_id":"9","comment":"/**\n * The RMSD of the final alignment. Use this to print overal alignment RMSD.\n *\n * @return total RMSD of the optimal alignment.\n */\n","repo_name":"biojava-master/","id":497,"method_signature":"double getTotalRmsdOpt()"}

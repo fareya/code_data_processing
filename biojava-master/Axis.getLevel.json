@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Axis.getLevel","method_implementation":"{\n    return level;\n}","repo_id":"9","comment":"/**\n * @return The level of this axis within it's parent hierarchy, or -1 if unset\n */\n","repo_name":"biojava-master/","id":2110,"method_signature":"int getLevel()"}

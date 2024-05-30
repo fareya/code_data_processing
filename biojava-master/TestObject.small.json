@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"TestObject.small","method_implementation":"{\n    return new TestObject(name, 100);\n}","repo_id":"9","comment":"/*\n        *Create an object occupying negligible memory\n        */\n","repo_name":"biojava-master/","id":3214,"method_signature":"TestObject small(String)"}

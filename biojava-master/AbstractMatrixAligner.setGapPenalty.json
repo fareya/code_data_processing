@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractMatrixAligner.setGapPenalty","method_implementation":"{\n    this.gapPenalty = gapPenalty;\n    reset();\n}","repo_id":"9","comment":"/**\n * Sets the gap penalties.\n *\n * @param gapPenalty the gap penalties used during alignment\n */\n","repo_name":"biojava-master/","id":64,"method_signature":"void setGapPenalty(GapPenalty)"}

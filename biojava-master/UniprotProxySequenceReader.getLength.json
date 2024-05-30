@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"UniprotProxySequenceReader.getLength","method_implementation":"{\n    return this.parsedCompounds.size();\n}","repo_id":"9","comment":"/**\n * The sequence length\n * @return\n */\n","repo_name":"biojava-master/","id":3115,"method_signature":"int getLength()"}

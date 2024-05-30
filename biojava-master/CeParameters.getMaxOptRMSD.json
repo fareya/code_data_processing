@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.getMaxOptRMSD","method_implementation":"{\n    return maxOptRMSD;\n}","repo_id":"9","comment":"/**\n * Returns the maximum RMSD cutoff to be applied during alignment optimization (default: 99 = unlimited)\n *\n * @return maxOptRMSD\n */\n","repo_name":"biojava-master/","id":754,"method_signature":"Double getMaxOptRMSD()"}

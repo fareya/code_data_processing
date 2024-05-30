@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceOptimizationHints.setSequenceCollection","method_implementation":"{\n    sequenceCollection = aSequenceColection;\n}","repo_id":"9","comment":"/**\n * @param aSequenceColection the sequenceColection to set\n */\n","repo_name":"biojava-master/","id":2633,"method_signature":"void setSequenceCollection(SequenceCollection)"}

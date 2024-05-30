@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.getSeqEnd","method_implementation":"{\n    return seqEnd;\n}","repo_id":"9","comment":"/**\n * Ending sequence number   of the PDB sequence segment.\n *\n *  @return sequence end position\n *  @see #getSeqEnd()\n */\n","repo_name":"biojava-master/","id":1394,"method_signature":"int getSeqEnd()"}

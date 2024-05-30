@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ABITrace.getTraceLength","method_implementation":"{\n    return traceLength;\n}","repo_id":"9","comment":"/**\n * Returns the length of the trace (number of x-coordinate points in the graph).\n *\n * @return int traceLength\n */\n","repo_name":"biojava-master/","id":2860,"method_signature":"int getTraceLength()"}

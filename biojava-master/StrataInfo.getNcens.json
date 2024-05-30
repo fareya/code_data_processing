@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getNcens","method_implementation":"{\n    return ncens;\n}","repo_id":"9","comment":"/**\n * @return the ncens\n */\n","repo_name":"biojava-master/","id":3522,"method_signature":"ArrayList<Double> getNcens()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getComments","method_implementation":"{\n    return comments;\n}","repo_id":"9","comment":"/**\n * @return comments\n */\n","repo_name":"biojava-master/","id":2930,"method_signature":"List<String> getComments()"}

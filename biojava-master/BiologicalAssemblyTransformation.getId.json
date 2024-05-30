@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BiologicalAssemblyTransformation.getId","method_implementation":"{\n    return id;\n}","repo_id":"9","comment":"/**\n * Returns the identifier for this biological assembly transformation.\n * @return biological assembly transformation identifier\n */\n","repo_name":"biojava-master/","id":955,"method_signature":"String getId()"}

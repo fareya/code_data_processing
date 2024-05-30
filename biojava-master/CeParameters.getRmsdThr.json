@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.getRmsdThr","method_implementation":"{\n    return rmsdThr;\n}","repo_id":"9","comment":"/**\n * RMSD Threshold\n *\n * @return RMSD threshold\n */\n","repo_name":"biojava-master/","id":747,"method_signature":"Double getRmsdThr()"}

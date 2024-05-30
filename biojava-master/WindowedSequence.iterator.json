@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WindowedSequence.iterator","method_implementation":"{\n    return new WindowedSequenceIterator<C>(this);\n}","repo_id":"9","comment":"/**\n * Returns an iterator which will return the windows in a sequence in\n * sequential order.\n */\n","repo_name":"biojava-master/","id":3189,"method_signature":"Iterator<SequenceView<C>> iterator()"}

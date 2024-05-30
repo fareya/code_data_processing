@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MultipleSequenceAlignment.getLength","method_implementation":"{\n    return length;\n}","repo_id":"9","comment":"/**\n * Get the length of the MSA where it is assumed that\n * all sequence position\n * @return length of MSA\n */\n","repo_name":"biojava-master/","id":2675,"method_signature":"int getLength()"}

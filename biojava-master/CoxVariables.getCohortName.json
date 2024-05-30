@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxVariables.getCohortName","method_implementation":"{\n    return cohortName;\n}","repo_id":"9","comment":"/**\n * @return the cohortName\n */\n","repo_name":"biojava-master/","id":3558,"method_signature":"String getCohortName()"}

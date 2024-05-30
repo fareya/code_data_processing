@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getWeight","method_implementation":"{\n    return weight;\n}","repo_id":"9","comment":"/**\n * @return the weight\n */\n","repo_name":"biojava-master/","id":3524,"method_signature":"ArrayList<Double> getWeight()"}

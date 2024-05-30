@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MultipleAlignmentGUI.actionPerformed","method_implementation":"{\n    abortCalc();\n    dispose();\n    System.exit(0);\n}","repo_id":"9","comment":"// This method is called when the button is pressed\n","repo_name":"biojava-master/","id":3307,"method_signature":"void actionPerformed(ActionEvent)"}

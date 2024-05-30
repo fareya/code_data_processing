@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getRobustStdError","method_implementation":"{\n    return robustStdError;\n}","repo_id":"9","comment":"/**\n * @return the robustStdError\n */\n","repo_name":"biojava-master/","id":3533,"method_signature":"double getRobustStdError()"}

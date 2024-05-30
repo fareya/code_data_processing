@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ScopMirror.getRootURL","method_implementation":"{\n    return rootURL;\n}","repo_id":"9","comment":"/**\n * Get the URL for the root download directory, or null if none is set.\n * @return\n */\n","repo_name":"biojava-master/","id":1555,"method_signature":"String getRootURL()"}

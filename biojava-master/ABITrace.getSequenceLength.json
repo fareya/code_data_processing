@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ABITrace.getSequenceLength","method_implementation":"{\n    return seqLength;\n}","repo_id":"9","comment":"/**\n * Returns the length of the sequence (number of bases) in this trace.\n *\n * @return int seqLength\n */\n","repo_name":"biojava-master/","id":2859,"method_signature":"int getSequenceLength()"}

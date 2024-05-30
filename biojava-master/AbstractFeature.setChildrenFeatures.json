@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.setChildrenFeatures","method_implementation":"{\n    childrenFeatures = features;\n}","repo_id":"9","comment":"/**\n * Set the children features\n * @param features\n */\n","repo_name":"biojava-master/","id":3087,"method_signature":"void setChildrenFeatures(List)"}

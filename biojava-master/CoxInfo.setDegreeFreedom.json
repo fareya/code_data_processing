@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.setDegreeFreedom","method_implementation":"{\n    this.degreeFreedom = degreeFreedom;\n}","repo_id":"9","comment":"/**\n * @param degreeFreedom the degreeFreedom to set\n */\n","repo_name":"biojava-master/","id":3641,"method_signature":"void setDegreeFreedom(double)"}

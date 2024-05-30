@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodInstallation.getDomainFile","method_implementation":"{\n    return new File(getCacheLocation(), getDomainFilename());\n}","repo_id":"9","comment":"/**\n * Local location for the domain file\n * @return\n */\n","repo_name":"biojava-master/","id":1815,"method_signature":"File getDomainFile()"}

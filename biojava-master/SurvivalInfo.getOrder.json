@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.getOrder","method_implementation":"{\n    return order;\n}","repo_id":"9","comment":"/**\n * @return the order\n */\n","repo_name":"biojava-master/","id":3671,"method_signature":"int getOrder()"}

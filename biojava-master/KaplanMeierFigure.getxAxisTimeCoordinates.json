@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.getxAxisTimeCoordinates","method_implementation":"{\n    return xAxisTimeCoordinates;\n}","repo_id":"9","comment":"/**\n * @return the xAxisTimeValues\n */\n","repo_name":"biojava-master/","id":3805,"method_signature":"ArrayList<Integer> getxAxisTimeCoordinates()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Site.getEvCode","method_implementation":"{\n    return evCode;\n}","repo_id":"9","comment":"/**\n * gets the REMARK 800 EVIDENCE CODE for the site.\n * @return evidence code\n */\n","repo_name":"biojava-master/","id":1575,"method_signature":"String getEvCode()"}

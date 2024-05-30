@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.isShowAFPRanges","method_implementation":"{\n    return showAFPRanges;\n}","repo_id":"9","comment":"/**\n * @return whether information about AFPs should be printed\n */\n","repo_name":"biojava-master/","id":752,"method_signature":"boolean isShowAFPRanges()"}

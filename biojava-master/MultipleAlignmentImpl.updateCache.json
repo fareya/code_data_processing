@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MultipleAlignmentImpl.updateCache","method_implementation":"{\n    updateCoreLength();\n    updateLength();\n}","repo_id":"9","comment":"/**\n * Updates all cached properties\n *\n * @throws StructureException\n */\n","repo_name":"biojava-master/","id":704,"method_signature":"void updateCache()"}

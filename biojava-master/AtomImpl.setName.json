@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomImpl.setName","method_implementation":"{\n    name = s;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1687,"method_signature":"void setName(String)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleGapPenalty.getOpenPenalty","method_implementation":"{\n    return gop;\n}","repo_id":"9","comment":"/**\n * <strong>Returns the negative of the opening penalty passed to the constructor.<\/strong>\n */\n","repo_name":"biojava-master/","id":3,"method_signature":"int getOpenPenalty()"}

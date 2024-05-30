@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"TestObject.large","method_implementation":"{\n    return new TestObject(name, 100_000);\n}","repo_id":"9","comment":"/*\n        *Create a test object occupying significant memory(100kB)\n        */\n","repo_name":"biojava-master/","id":3215,"method_signature":"TestObject large(String)"}

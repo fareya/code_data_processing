@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomCache.setCachePath","method_implementation":"{\n    this.cachePath = cachePath;\n}","repo_id":"9","comment":"/**\n * set the location at which utility data should be cached.\n *\n * @param cachePath\n */\n","repo_name":"biojava-master/","id":634,"method_signature":"void setCachePath(String)"}

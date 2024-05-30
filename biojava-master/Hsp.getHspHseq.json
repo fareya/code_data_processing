@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Hsp.getHspHseq","method_implementation":"{\n    return hspHseq;\n}","repo_id":"9","comment":"/**\n * HSP aligned hit sequence string\n * @return\n */\n","repo_name":"biojava-master/","id":2546,"method_signature":"String getHspHseq()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BiologicalAssemblyTransformation.getChainId","method_implementation":"{\n    return this.chainId;\n}","repo_id":"9","comment":"/**\n * Returns the chain identifier (asym id) that this transformation should be applied to.\n * @return chain identifier\n */\n","repo_name":"biojava-master/","id":957,"method_signature":"String getChainId()"}

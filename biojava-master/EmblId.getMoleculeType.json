@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblId.getMoleculeType","method_implementation":"{\n    return moleculeType;\n}","repo_id":"9","comment":"/**\n * Molecule type this represents the type of molecule as stored\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2732,"method_signature":"String getMoleculeType()"}

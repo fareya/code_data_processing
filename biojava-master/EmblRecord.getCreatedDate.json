@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblRecord.getCreatedDate","method_implementation":"{\n    return createdDate;\n}","repo_id":"9","comment":"/**\n * The DT  line shows when an entry first appeared in the database\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2740,"method_signature":"String getCreatedDate()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FastaSequence.toString","method_implementation":"{\n    return this.getOnelineFasta();\n}","repo_id":"9","comment":"/**\n * Same as oneLineFasta\n */\n","repo_name":"biojava-master/","id":208,"method_signature":"String toString()"}

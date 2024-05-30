@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getStderr","method_implementation":"{\n    return stderr;\n}","repo_id":"9","comment":"/**\n * @return the stderr\n */\n","repo_name":"biojava-master/","id":3517,"method_signature":"ArrayList<Double> getStderr()"}

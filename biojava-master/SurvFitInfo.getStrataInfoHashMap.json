@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvFitInfo.getStrataInfoHashMap","method_implementation":"{\n    return strataInfoHashMap;\n}","repo_id":"9","comment":"/**\n * @return the strataInfoHashMap\n */\n","repo_name":"biojava-master/","id":3693,"method_signature":"LinkedHashMap<String,StrataInfo> getStrataInfoHashMap()"}

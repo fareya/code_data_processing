@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SiftsChainEntry.getPdbStart","method_implementation":"{\n    return pdbStart;\n}","repo_id":"9","comment":"/**\n * @return A residue number\n */\n","repo_name":"biojava-master/","id":1118,"method_signature":"String getPdbStart()"}

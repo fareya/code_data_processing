@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.getNrBioAssemblies","method_implementation":"{\n    return this.bioAssemblies.size();\n}","repo_id":"9","comment":"/**\n * Get the number of biological assemblies available in the PDB header\n * @return\n */\n","repo_name":"biojava-master/","id":1785,"method_signature":"int getNrBioAssemblies()"}

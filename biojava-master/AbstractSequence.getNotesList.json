@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getNotesList","method_implementation":"{\n    return notesList;\n}","repo_id":"9","comment":"/**\n * @return the notesList\n */\n","repo_name":"biojava-master/","id":2917,"method_signature":"ArrayList<String> getNotesList()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["SoftHashMap.clear"],"method_name":"FlatFileCache.clear","method_implementation":"{\n    cache.clear();\n}","repo_id":"9","comment":"/**\n * Removes all elements from the cache\n */\n","repo_name":"biojava-master/","id":2564,"method_signature":"void clear()"}

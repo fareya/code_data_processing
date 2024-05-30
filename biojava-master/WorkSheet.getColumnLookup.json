@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WorkSheet.getColumnLookup","method_implementation":"{\n    return columnLookup;\n}","repo_id":"9","comment":"/**\n * @return the columnLookup\n */\n","repo_name":"biojava-master/","id":3774,"method_signature":"LinkedHashMap<String,HeaderInfo> getColumnLookup()"}

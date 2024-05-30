@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.get"],"method_name":"SubunitCluster.length","method_implementation":"{\n    return subunitEQR.get(representative).size();\n}","repo_id":"9","comment":"/**\n * @return the number of aligned residues between Subunits of the cluster\n */\n","repo_name":"biojava-master/","id":1663,"method_signature":"int length()"}

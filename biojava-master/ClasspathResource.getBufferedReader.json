@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ClasspathResource.getBufferedReader","method_implementation":"{\n    return new BufferedReader(new InputStreamReader(getInputStream()));\n}","repo_id":"9","comment":"/**\n * Returns the reader representation of this classpath resource\n */\n","repo_name":"biojava-master/","id":2804,"method_signature":"BufferedReader getBufferedReader()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MmtfSummaryDataBean.setAllChains","method_implementation":"{\n    this.allChains = allChains;\n}","repo_id":"9","comment":"/**\n * @param allChains the list of chains (in all models) in the structure\n */\n","repo_name":"biojava-master/","id":1278,"method_signature":"void setAllChains(List)"}

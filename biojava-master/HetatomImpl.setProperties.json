@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HetatomImpl.setProperties","method_implementation":"{\n    properties = props;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":988,"method_signature":"void setProperties(Map)"}

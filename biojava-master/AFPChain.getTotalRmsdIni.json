@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getTotalRmsdIni","method_implementation":"{\n    return totalRmsdIni;\n}","repo_id":"9","comment":"/**\n * this is the init-RMSD, not the final RMSD after refinement.\n *\n * @return totalRmsdIni\n */\n","repo_name":"biojava-master/","id":495,"method_signature":"double getTotalRmsdIni()"}

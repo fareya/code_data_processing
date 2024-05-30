@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ChiSq.norm","method_implementation":"{\n    return ChiSq.chiSq(z * z, 1);\n}","repo_id":"9","comment":"/**\n * @param z\n * @return\n */\n","repo_name":"biojava-master/","id":3505,"method_signature":"double norm(double)"}

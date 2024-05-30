@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedList.addFirst"],"method_name":"GlobalsHelper.pushState","method_implementation":"{\n    PathInfo paths = new PathInfo();\n    stack.addFirst(paths);\n}","repo_id":"9","comment":"/**\n * Save current global state to the stack\n */\n","repo_name":"biojava-master/","id":2333,"method_signature":"void pushState()"}

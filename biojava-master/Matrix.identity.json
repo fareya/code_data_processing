@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Matrix.identity","method_implementation":"{\n    double[][] I = new double[n][n];\n    for (int i = 0; i < n; i++) {\n        I[i][i] = 1;\n    }\n    return I;\n}","repo_id":"9","comment":"/**\n * @param n\n * @return\n */\n","repo_name":"biojava-master/","id":3578,"method_signature":"double[][] identity(int)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getZ","method_implementation":"{\n    return z;\n}","repo_id":"9","comment":"/**\n * @return the z\n */\n","repo_name":"biojava-master/","id":3534,"method_signature":"double getZ()"}

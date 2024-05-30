@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BiologicalAssemblyTransformation.setChainId","method_implementation":"{\n    this.chainId = chainId;\n}","repo_id":"9","comment":"/**\n * Sets the chain identifier (asym id) that this transformation should be applied to.\n * @param chainId\n */\n","repo_name":"biojava-master/","id":956,"method_signature":"void setChainId(String)"}

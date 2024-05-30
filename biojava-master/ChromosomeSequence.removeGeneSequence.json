@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.remove"],"method_name":"ChromosomeSequence.removeGeneSequence","method_implementation":"{\n    return geneSequenceHashMap.remove(accession);\n}","repo_id":"9","comment":"/**\n * @param accession\n * @return\n */\n","repo_name":"biojava-master/","id":3180,"method_signature":"GeneSequence removeGeneSequence(String)"}

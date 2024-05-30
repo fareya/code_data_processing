@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.setChainName","method_implementation":"{\n    this.chainName = chainName;\n}","repo_id":"9","comment":"/**\n * The name of the corresponding chain.\n *\n * @param chainName the name of the corresponding chain\n * @see #getChainName()\n */\n","repo_name":"biojava-master/","id":1375,"method_signature":"void setChainName(String)"}

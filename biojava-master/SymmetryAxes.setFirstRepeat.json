@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SymmetryAxes.setFirstRepeat","method_implementation":"{\n    this.firstRepeat = firstRepeat;\n}","repo_id":"9","comment":"/**\n * @param firstRepeat the index of the first repeat used by this axis\n */\n","repo_name":"biojava-master/","id":2091,"method_signature":"void setFirstRepeat(int)"}

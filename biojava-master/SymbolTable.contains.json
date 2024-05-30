@@ -1,0 +1,1 @@
+{"callee_method_names":["TreeMap<Key, Value>.containsKey"],"method_name":"SymbolTable.contains","method_implementation":"{\n    return st.containsKey(key);\n}","repo_id":"9","comment":"/**\n * Is the key in the table?\n */\n","repo_name":"biojava-master/","id":857,"method_signature":"boolean contains(Key)"}

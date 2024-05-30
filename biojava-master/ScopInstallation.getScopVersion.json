@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ScopInstallation.getScopVersion","method_implementation":"{\n    return scopVersion;\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.scop.ScopDatabase#getScopVersion()\n\t */\n","repo_name":"biojava-master/","id":1553,"method_signature":"String getScopVersion()"}

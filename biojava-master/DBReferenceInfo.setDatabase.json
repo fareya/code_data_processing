@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBReferenceInfo.setDatabase","method_implementation":"{\n    this.database = database;\n}","repo_id":"9","comment":"/**\n * @param database the database to set\n */\n","repo_name":"biojava-master/","id":3107,"method_signature":"void setDatabase(String)"}

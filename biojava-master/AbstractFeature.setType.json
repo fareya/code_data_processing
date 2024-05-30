@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.setType","method_implementation":"{\n    this.type = type;\n}","repo_id":"9","comment":"/**\n * Set the feature type\n * @param type\n */\n","repo_name":"biojava-master/","id":3082,"method_signature":"void setType(String)"}

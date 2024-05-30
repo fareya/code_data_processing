@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.getKeywords","method_implementation":"{\n    return keywords;\n}","repo_id":"9","comment":"/**\n * Gets the keywords (KEYWODS) record of the structure\n * @return The keywords in a <code>List&lt;String&gt;<\/code>\n * @since 6.0.0\n */\n","repo_name":"biojava-master/","id":1788,"method_signature":"List<String> getKeywords()"}

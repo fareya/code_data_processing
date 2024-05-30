@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblRecord.getProjectIdentifier","method_implementation":"{\n    return projectIdentifier;\n}","repo_id":"9","comment":"/**\n * @return String\n */\n","repo_name":"biojava-master/","id":2738,"method_signature":"String getProjectIdentifier()"}

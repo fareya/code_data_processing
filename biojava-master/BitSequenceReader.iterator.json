@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BitSequenceReader.iterator","method_implementation":"{\n    return SequenceMixin.createIterator(this);\n}","repo_id":"9","comment":"/**\n * Provides basic iterable access to this class\n */\n","repo_name":"biojava-master/","id":2990,"method_signature":"Iterator<C> iterator()"}

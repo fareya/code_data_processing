@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FastaWriter.getLineLength","method_implementation":"{\n    return lineLength;\n}","repo_id":"9","comment":"/**\n * @return the lineLength\n */\n","repo_name":"biojava-master/","id":2784,"method_signature":"int getLineLength()"}

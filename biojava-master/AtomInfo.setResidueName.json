@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomInfo.setResidueName","method_implementation":"{\n    this.residueName = residueName;\n}","repo_id":"9","comment":"/**\n * Including insertion code\n *\n * @param residueName\n */\n","repo_name":"biojava-master/","id":3283,"method_signature":"void setResidueName(String)"}

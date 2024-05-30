@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupIterator.next","method_implementation":"{\n    return getNextGroup(current_model_pos, current_chain_pos, current_group_pos + 1);\n}","repo_id":"9","comment":"/**\n * get next Group.\n * @return next Group\n * @throws NoSuchElementException ...\n */\n","repo_name":"biojava-master/","id":404,"method_signature":"Group next()"}

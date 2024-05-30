@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AccessionID.getIdentifier","method_implementation":"{\n    return identifier;\n}","repo_id":"9","comment":"/**\n * In case if {@link #getID() } is not unique, keeps the alternative id, e.g. NCBI GI number.\n * This may be null.\n * @return\n */\n","repo_name":"biojava-master/","id":3059,"method_signature":"String getIdentifier()"}

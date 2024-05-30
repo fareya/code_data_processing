@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SymmetryAxes.getOperator","method_implementation":"{\n    return operator;\n}","repo_id":"9","comment":"/**\n * Get the transformation operator for this axis as an homogeneous matrix\n * @return the transformation operator\n */\n","repo_name":"biojava-master/","id":2084,"method_signature":"Matrix4d getOperator()"}

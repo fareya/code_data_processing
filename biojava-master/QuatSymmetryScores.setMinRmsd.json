@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.setMinRmsd","method_implementation":"{\n    this.minRmsd = minRmsd;\n}","repo_id":"9","comment":"/**\n * @param minRmsd the minRmsd to set\n */\n","repo_name":"biojava-master/","id":1939,"method_signature":"void setMinRmsd(double)"}

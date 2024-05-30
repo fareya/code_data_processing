@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblRecord.getLastUpdatedDate","method_implementation":"{\n    return lastUpdatedDate;\n}","repo_id":"9","comment":"/**\n * The DT (DaTe) line shows when an entry was last updated in the database.\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2743,"method_signature":"String getLastUpdatedDate()"}

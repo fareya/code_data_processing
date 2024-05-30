@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HelixAxisAligner.getOrbits","method_implementation":"{\n    run();\n    return alignedOrbits;\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.quaternary.core.AxisAligner#getOrbits()\n\t */\n","repo_name":"biojava-master/","id":1972,"method_signature":"List<List<Integer>> getOrbits()"}

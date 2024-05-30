@@ -1,0 +1,1 @@
+{"callee_method_ids":[2385],"callee_method_names":["TwoBitParser.close"],"method_name":"TwoBitFacade.close","method_implementation":"{\n    if (twoBitParser != null)\n        twoBitParser.close();\n}","repo_id":"9","comment":"/**\n *  Closes .2bit file twoBitParser.\n */\n","repo_name":"biojava-master/","id":2377,"method_signature":"void close()"}

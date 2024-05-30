@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupIterator.getCurrentModel","method_implementation":"{\n    return current_model_pos;\n}","repo_id":"9","comment":"/**\n * Get the model number of the current model.\n *\n * @return the number of the model\n */\n","repo_name":"biojava-master/","id":402,"method_signature":"int getCurrentModel()"}

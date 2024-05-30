@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.getDepDate","method_implementation":"{\n    return depDate;\n}","repo_id":"9","comment":"/**\n * Return the deposition date of the structure in the PDB.\n *\n * @return the deposition date\n */\n","repo_name":"biojava-master/","id":1769,"method_signature":"Date getDepDate()"}

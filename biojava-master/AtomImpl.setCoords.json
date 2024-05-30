@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomImpl.setCoords","method_implementation":"{\n    coords = new Point3d(c);\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1691,"method_signature":"void setCoords(double[])"}

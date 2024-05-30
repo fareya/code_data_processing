@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.put"],"method_name":"SurvivalInfo.updateContinousVariable","method_implementation":"{\n    data.put(variable, value);\n}","repo_id":"9","comment":"/**\n * @param variable\n * @param value\n */\n","repo_name":"biojava-master/","id":3648,"method_signature":"void updateContinousVariable(String, Double)"}

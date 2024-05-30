@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GenericGenbankHeaderParser.setComment","method_implementation":"{\n    if (comment == null)\n        throw new ParserException(\"Comment cannot be null\");\n    this.comments.add(comment);\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2836,"method_signature":"void setComment(String)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SpaceGroup.getShortSymbol","method_implementation":"{\n    return shortSymbol;\n}","repo_id":"9","comment":"/**\n * Gets the international short name (as used in PDB),\n * e.g. \"P 21 21 21\" or \"C 1 c 1\"\n * @return\n */\n","repo_name":"biojava-master/","id":1451,"method_signature":"String getShortSymbol()"}

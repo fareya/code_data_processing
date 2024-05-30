@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RotationAxis.getFullMatrix","method_implementation":"{\n    // TODO, easy\n    return null;\n}","repo_id":"9","comment":"/**\n * Returns a matrix that describes both rotation and translation.\n */\n","repo_name":"biojava-master/","id":564,"method_signature":"Matrix getFullMatrix()"}

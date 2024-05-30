@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlternativeAlignment.getEqr","method_implementation":"{\n    return eqr0;\n}","repo_id":"9","comment":"/**\n * returns the number of euqivalent residues in this alignment\n *\n * @return the number of equivalent residues\n */\n","repo_name":"biojava-master/","id":816,"method_signature":"int getEqr()"}

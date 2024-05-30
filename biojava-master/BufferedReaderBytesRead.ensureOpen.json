@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BufferedReaderBytesRead.ensureOpen","method_implementation":"{\n    if (in == null) {\n        throw new IOException(\"Stream closed\");\n    }\n}","repo_id":"9","comment":"/**\n * Checks to make sure that the stream has not been closed\n */\n","repo_name":"biojava-master/","id":2710,"method_signature":"void ensureOpen()"}

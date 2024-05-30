@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ClasspathResource.getInputStream","method_implementation":"{\n    return createClasspathInputStream();\n}","repo_id":"9","comment":"/**\n * Returns the InputStream instance of this classpath resource\n */\n","repo_name":"biojava-master/","id":2803,"method_signature":"InputStream getInputStream()"}

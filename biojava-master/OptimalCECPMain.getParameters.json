@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"OptimalCECPMain.getParameters","method_implementation":"{\n    return params;\n}","repo_id":"9","comment":"/**\n * @return an {@link OptimalCECPParameters} object\n */\n","repo_name":"biojava-master/","id":781,"method_signature":"ConfigStrucAligParams getParameters()"}

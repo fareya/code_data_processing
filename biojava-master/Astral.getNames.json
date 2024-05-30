@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Astral.getNames","method_implementation":"{\n    return names;\n}","repo_id":"9","comment":"/**\n * @return The names of representatives in this ASTRAL set.\n */\n","repo_name":"biojava-master/","id":1538,"method_signature":"Set<String> getNames()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["JFrame.getTitle"],"method_name":"AbstractAlignmentJmol.getTitle","method_implementation":"{\n    return frame.getTitle();\n}","repo_id":"9","comment":"/**\n * Return the title of the AlignmentJmol window.\n */\n","repo_name":"biojava-master/","id":3275,"method_signature":"String getTitle()"}

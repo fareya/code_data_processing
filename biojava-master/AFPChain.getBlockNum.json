@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getBlockNum","method_implementation":"{\n    return blockNum;\n}","repo_id":"9","comment":"/**\n * The number of blocks in the alignment\n *\n * @return the nr of blocks in alignment\n */\n","repo_name":"biojava-master/","id":487,"method_signature":"int getBlockNum()"}

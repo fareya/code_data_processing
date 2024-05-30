@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.getUserObject","method_implementation":"{\n    return userObject;\n}","repo_id":"9","comment":"/**\n * @return the userObject\n */\n","repo_name":"biojava-master/","id":3092,"method_signature":"Object getUserObject()"}

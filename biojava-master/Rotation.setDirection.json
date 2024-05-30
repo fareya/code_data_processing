@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.setDirection","method_implementation":"{\n    this.direction = axis;\n}","repo_id":"9","comment":"/**\n * @param direction the direction to set\n */\n","repo_name":"biojava-master/","id":1866,"method_signature":"void setDirection(int)"}

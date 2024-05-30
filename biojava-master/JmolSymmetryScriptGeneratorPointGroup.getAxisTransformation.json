@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolSymmetryScriptGeneratorPointGroup.getAxisTransformation","method_implementation":"{\n    return rotationAxisAligner;\n}","repo_id":"9","comment":"/**\n * @return the axisTransformation\n */\n","repo_name":"biojava-master/","id":3401,"method_signature":"RotationAxisAligner getAxisTransformation()"}

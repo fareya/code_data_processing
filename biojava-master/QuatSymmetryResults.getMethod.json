@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryResults.getMethod","method_implementation":"{\n    return method;\n}","repo_id":"9","comment":"/**\n * @return the method used for symmetry perception.\n */\n","repo_name":"biojava-master/","id":1928,"method_signature":"SymmetryPerceptionMethod getMethod()"}

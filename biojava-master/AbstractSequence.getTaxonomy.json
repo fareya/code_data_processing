@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getTaxonomy","method_implementation":"{\n    return taxonomy;\n}","repo_id":"9","comment":"/**\n * @return the species\n */\n","repo_name":"biojava-master/","id":2938,"method_signature":"TaxonomyID getTaxonomy()"}

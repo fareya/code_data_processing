@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WindowedSequence.getWindowSize","method_implementation":"{\n    return windowSize;\n}","repo_id":"9","comment":"/**\n * Access the current window size\n */\n","repo_name":"biojava-master/","id":3183,"method_signature":"int getWindowSize()"}

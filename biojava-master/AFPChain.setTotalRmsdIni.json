@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.setTotalRmsdIni","method_implementation":"{\n    this.totalRmsdIni = totalRmsdIni;\n}","repo_id":"9","comment":"/**\n * this is the init-RMSD, not the final RMSD after refinement.\n *\n * @param totalRmsdIni\n */\n","repo_name":"biojava-master/","id":496,"method_signature":"void setTotalRmsdIni(double)"}

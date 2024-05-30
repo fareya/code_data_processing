@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.getSurvivalFitInfo","method_implementation":"{\n    return sfi;\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3792,"method_signature":"SurvFitInfo getSurvivalFitInfo()"}

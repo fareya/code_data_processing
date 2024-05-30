@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AminoAcidImpl.getN","method_implementation":"{\n    return getAtom(\"N\");\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1353,"method_signature":"Atom getN()"}

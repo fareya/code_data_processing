@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblRecord.getAssemblyHeader","method_implementation":"{\n    return assemblyHeader;\n}","repo_id":"9","comment":"/**\n * The AH (Assembly Header) line provides column headings for the assembly information.\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2749,"method_signature":"String getAssemblyHeader()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.setTraceTmScoreMin","method_implementation":"{\n    this.traceTmScoreMin = traceTmScoreMin;\n}","repo_id":"9","comment":"/**\n * @param traceTmScoreMin the traceTmScore to set\n */\n","repo_name":"biojava-master/","id":1855,"method_signature":"void setTraceTmScoreMin(double)"}

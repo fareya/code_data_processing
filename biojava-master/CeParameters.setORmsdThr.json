@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.setORmsdThr","method_implementation":"{\n    this.oRmsdThr = oRmsdThr;\n}","repo_id":"9","comment":"/**\n * Set the Original RMSD threshold from which the alignment optimization is started\n *\n * @param oRmsdThr the threshold\n */\n","repo_name":"biojava-master/","id":756,"method_signature":"void setORmsdThr(Double)"}

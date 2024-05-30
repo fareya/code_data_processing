@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MmtfStructureReader.getStructure","method_implementation":"{\n    return structure;\n}","repo_id":"9","comment":"/**\n * Gets the structure.\n *\n * @return the structure\n */\n","repo_name":"biojava-master/","id":1261,"method_signature":"Structure getStructure()"}

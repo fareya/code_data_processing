@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Helix.getAngle","method_implementation":"{\n    return getAxisAngle().angle;\n}","repo_id":"9","comment":"/**\n * Returns the pitch angle of the helix\n * @param transformation helix transformation\n * @return\n */\n","repo_name":"biojava-master/","id":1876,"method_signature":"double getAngle()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Site.setDescription","method_implementation":"{\n    this.description = description;\n}","repo_id":"9","comment":"/**\n * sets the REMARK 800 description of the site\n */\n","repo_name":"biojava-master/","id":1574,"method_signature":"void setDescription(String)"}

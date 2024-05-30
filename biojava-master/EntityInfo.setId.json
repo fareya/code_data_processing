@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EntityInfo.setId","method_implementation":"{\n    this.id = id;\n}","repo_id":"9","comment":"/**\n * set the ID used by Hibernate\n *\n * @param id\n */\n","repo_name":"biojava-master/","id":1341,"method_signature":"void setId(Long)"}

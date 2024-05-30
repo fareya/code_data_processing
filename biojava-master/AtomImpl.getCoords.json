@@ -1,0 +1,1 @@
+{"callee_method_names":["Point3d.get"],"method_name":"AtomImpl.getCoords","method_implementation":"{\n    double[] c = new double[3];\n    coords.get(c);\n    return c;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1692,"method_signature":"double[] getCoords()"}

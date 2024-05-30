@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBCrystallographicInfo.setCrystalCell","method_implementation":"{\n    this.cell = cell;\n}","repo_id":"9","comment":"/**\n * Set the crystal cell\n * @param cell\n */\n","repo_name":"biojava-master/","id":1411,"method_signature":"void setCrystalCell(CrystalCell)"}

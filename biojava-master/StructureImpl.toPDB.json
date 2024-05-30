@@ -1,0 +1,1 @@
+{"callee_method_ids":[1156],"callee_method_names":["FileConvert.toPDB"],"method_name":"StructureImpl.toPDB","method_implementation":"{\n    FileConvert f = new FileConvert(this);\n    return f.toPDB();\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2139,"method_signature":"String toPDB()"}

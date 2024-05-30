@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MmtfSummaryDataBean.getAllChains","method_implementation":"{\n    return allChains;\n}","repo_id":"9","comment":"/**\n * @return the list of chains (in all models) in the structure\n */\n","repo_name":"biojava-master/","id":1277,"method_signature":"List<Chain> getAllChains()"}

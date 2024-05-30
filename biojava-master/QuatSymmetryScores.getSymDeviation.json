@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.getSymDeviation","method_implementation":"{\n    return symDeviation;\n}","repo_id":"9","comment":"/**\n * @return the symDeviation\n */\n","repo_name":"biojava-master/","id":1956,"method_signature":"double getSymDeviation()"}

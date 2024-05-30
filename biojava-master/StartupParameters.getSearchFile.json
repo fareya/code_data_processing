@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StartupParameters.getSearchFile","method_implementation":"{\n    return searchFile;\n}","repo_id":"9","comment":"/**\n * An input file to be used for the DB search\n *\n * @return\n */\n","repo_name":"biojava-master/","id":764,"method_signature":"String getSearchFile()"}

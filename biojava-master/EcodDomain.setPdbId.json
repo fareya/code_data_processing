@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodDomain.setPdbId","method_implementation":"{\n    this.pdbId = pdbId;\n}","repo_id":"9","comment":"/**\n * @param pdbId\n * @since 6.0.0\n */\n","repo_name":"biojava-master/","id":1791,"method_signature":"void setPdbId(PdbId)"}

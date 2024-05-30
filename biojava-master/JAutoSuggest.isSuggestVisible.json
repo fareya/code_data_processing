@@ -1,0 +1,1 @@
+{"callee_method_names":["JDialog.isVisible"],"method_name":"JAutoSuggest.isSuggestVisible","method_implementation":"{\n    return dialog.isVisible();\n}","repo_id":"9","comment":"/**\n * @return boolean Visibility of the suggestion window\n */\n","repo_name":"biojava-master/","id":3248,"method_signature":"boolean isSuggestVisible()"}

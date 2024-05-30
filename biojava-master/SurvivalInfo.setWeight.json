@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.setWeight","method_implementation":"{\n    this.weight = weight;\n}","repo_id":"9","comment":"/**\n * @param weight the weight to set\n */\n","repo_name":"biojava-master/","id":3658,"method_signature":"void setWeight(double)"}

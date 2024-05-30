@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ModificationLinkage.getLabelOfAtomOnComponent1","method_implementation":"{\n    return labelOfAtomOnComponent1;\n}","repo_id":"9","comment":"/**\n * @return label of the atom on the first component.\n */\n","repo_name":"biojava-master/","id":270,"method_signature":"String getLabelOfAtomOnComponent1()"}

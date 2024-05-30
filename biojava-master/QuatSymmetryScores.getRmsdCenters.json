@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.getRmsdCenters","method_implementation":"{\n    return rmsdCenters;\n}","repo_id":"9","comment":"/**\n * @return the rmsdCenters\n */\n","repo_name":"biojava-master/","id":1950,"method_signature":"double getRmsdCenters()"}

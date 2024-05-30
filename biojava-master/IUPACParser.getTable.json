@@ -1,0 +1,1 @@
+{"callee_method_names":["Map<Integer, IUPACTable>.get"],"method_name":"IUPACParser.getTable","method_implementation":"{\n    populateLookups();\n    return idLookup.get(id);\n}","repo_id":"9","comment":"/**\n * Returns a table by its identifier i.e. 1 means universal codon tables\n */\n","repo_name":"biojava-master/","id":2776,"method_signature":"IUPACTable getTable(Integer)"}

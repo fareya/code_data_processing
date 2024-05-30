@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WaldTestInfo.getDf","method_implementation":"{\n    return df;\n}","repo_id":"9","comment":"/**\n * @return the df\n */\n","repo_name":"biojava-master/","id":3681,"method_signature":"int getDf()"}

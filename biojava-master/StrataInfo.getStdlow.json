@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getStdlow","method_implementation":"{\n    return stdlow;\n}","repo_id":"9","comment":"/**\n * @return the stdlow\n */\n","repo_name":"biojava-master/","id":3527,"method_signature":"ArrayList<Double> getStdlow()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FatCatParameters.setMaxTra","method_implementation":"{\n    this.maxTra = maxTra;\n}","repo_id":"9","comment":"/**\n * set the maximum number of Twists that are allowed...\n *\n * @param maxTra\n */\n","repo_name":"biojava-master/","id":433,"method_signature":"void setMaxTra(Integer)"}

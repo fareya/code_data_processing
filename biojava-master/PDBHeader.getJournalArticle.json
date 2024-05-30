@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.getJournalArticle","method_implementation":"{\n    return this.journalArticle;\n}","repo_id":"9","comment":"/**\n * Get the associated publication as defined by the JRNL records in a PDB\n * file.\n * @return a JournalArticle\n */\n","repo_name":"biojava-master/","id":1782,"method_signature":"JournalArticle getJournalArticle()"}

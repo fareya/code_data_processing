@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.clear"],"method_name":"StructureAlignmentFactory.clearAlgorithms","method_implementation":"{\n    algorithms.clear();\n}","repo_id":"9","comment":"/**\n * Removes all algorithms from the list\n */\n","repo_name":"biojava-master/","id":519,"method_signature":"void clearAlgorithms()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DNATest.getSeq","method_implementation":"{\n    return getSeq(null);\n}","repo_id":"9","comment":"//  }\n","repo_name":"biojava-master/","id":3234,"method_signature":"DNASequence getSeq()"}

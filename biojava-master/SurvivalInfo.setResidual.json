@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.setResidual","method_implementation":"{\n    this.residual = residual;\n}","repo_id":"9","comment":"/**\n * @param residual the residual to set\n */\n","repo_name":"biojava-master/","id":3666,"method_signature":"void setResidual(double)"}

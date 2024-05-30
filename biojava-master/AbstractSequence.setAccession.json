@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setAccession","method_implementation":"{\n    this.accession = accession;\n}","repo_id":"9","comment":"/**\n * @param accession the accession to set\n */\n","repo_name":"biojava-master/","id":2937,"method_signature":"void setAccession(AccessionID)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WorkSheet.setIndexColumnName","method_implementation":"{\n    this.indexColumnName = indexColumnName;\n}","repo_id":"9","comment":"/**\n * @param indexColumnName the indexColumnName to set\n */\n","repo_name":"biojava-master/","id":3773,"method_signature":"void setIndexColumnName(String)"}

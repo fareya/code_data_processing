@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WorkSheet.getRowLookup","method_implementation":"{\n    return rowLookup;\n}","repo_id":"9","comment":"/**\n * @return the rowLookup\n */\n","repo_name":"biojava-master/","id":3775,"method_signature":"LinkedHashMap<String,HeaderInfo> getRowLookup()"}

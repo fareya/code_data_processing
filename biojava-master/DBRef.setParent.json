@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.setParent","method_implementation":"{\n    parent = s;\n}","repo_id":"9","comment":"/**\n * Set the structure object that this DBRef relates to.\n *\n * @param s a structure object\n * @see #getParent()\n */\n","repo_name":"biojava-master/","id":1367,"method_signature":"void setParent(Structure)"}

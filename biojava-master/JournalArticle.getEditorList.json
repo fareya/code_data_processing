@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.getEditorList","method_implementation":"{\n    return editorList;\n}","repo_id":"9","comment":"/**\n * Get the list of editors of the JournalArticle\n *\n * @return the List of editors\n */\n","repo_name":"biojava-master/","id":1524,"method_signature":"List<Author> getEditorList()"}

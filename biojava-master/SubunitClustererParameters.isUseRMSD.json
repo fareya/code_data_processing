@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitClustererParameters.isUseRMSD","method_implementation":"{\n    return useRMSD;\n}","repo_id":"9","comment":"/**\n * Use RMSD for evaluating structure similarity\n *\n * @return useRMSD\n */\n","repo_name":"biojava-master/","id":1640,"method_signature":"boolean isUseRMSD()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitCluster.getClustererMethod","method_implementation":"{\n    return method;\n}","repo_id":"9","comment":"/**\n * @return the {@link SubunitClustererMethod} used for clustering the\n *         Subunits\n */\n","repo_name":"biojava-master/","id":1664,"method_signature":"SubunitClustererMethod getClustererMethod()"}

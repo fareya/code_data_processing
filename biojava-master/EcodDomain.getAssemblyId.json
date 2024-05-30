@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodDomain.getAssemblyId","method_implementation":"{\n    return assemblyId;\n}","repo_id":"9","comment":"/**\n * @return The assembly ID, or the DomainId if not in an assembly, or null if unknown.\n */\n","repo_name":"biojava-master/","id":1794,"method_signature":"Long getAssemblyId()"}

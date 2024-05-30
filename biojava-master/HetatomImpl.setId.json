@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HetatomImpl.setId","method_implementation":"{\n    this.id = id;\n}","repo_id":"9","comment":"/**\n * the Hibernate database ID\n *\n * @param id the hibernate id\n */\n","repo_name":"biojava-master/","id":991,"method_signature":"void setId(long)"}

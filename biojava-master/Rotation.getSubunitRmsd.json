@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.getSubunitRmsd","method_implementation":"{\n    return subunitRmsd;\n}","repo_id":"9","comment":"/**\n * @return the subunitRmsd\n */\n","repo_name":"biojava-master/","id":1851,"method_signature":"double getSubunitRmsd()"}

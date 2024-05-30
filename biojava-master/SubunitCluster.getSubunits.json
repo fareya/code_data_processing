@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitCluster.getSubunits","method_implementation":"{\n    return Collections.unmodifiableList(subunits);\n}","repo_id":"9","comment":"/**\n * Subunits contained in the SubunitCluster.\n *\n * @return an unmodifiable view of the original List\n */\n","repo_name":"biojava-master/","id":1656,"method_signature":"List<Subunit> getSubunits()"}

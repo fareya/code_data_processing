@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceDisplay.getIdx2","method_implementation":"{\n    return idx2;\n}","repo_id":"9","comment":"/**\n * get the identical position in the alignment\n *\n * @return identical positions for structure2\n */\n","repo_name":"biojava-master/","id":3329,"method_signature":"int[] getIdx2()"}

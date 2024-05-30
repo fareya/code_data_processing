@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CensorStatus.setPercentage","method_implementation":"{\n    this.percentage = percentage;\n}","repo_id":"9","comment":"/**\n * @param percentage the percentage to set\n */\n","repo_name":"biojava-master/","id":3816,"method_signature":"void setPercentage(Double)"}

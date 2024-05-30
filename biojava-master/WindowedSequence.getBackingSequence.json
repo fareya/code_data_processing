@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WindowedSequence.getBackingSequence","method_implementation":"{\n    return sequence;\n}","repo_id":"9","comment":"/**\n * Access the sequence which backs this window\n */\n","repo_name":"biojava-master/","id":3184,"method_signature":"Sequence<C> getBackingSequence()"}

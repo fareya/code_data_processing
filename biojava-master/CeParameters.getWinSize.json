@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.getWinSize","method_implementation":"{\n    return winSize;\n}","repo_id":"9","comment":"/**\n * The window size to look at\n *\n * @return window size\n */\n","repo_name":"biojava-master/","id":746,"method_signature":"Integer getWinSize()"}

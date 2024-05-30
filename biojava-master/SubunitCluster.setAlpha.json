@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitCluster.setAlpha","method_implementation":"{\n    this.alpha = alpha;\n}","repo_id":"9","comment":"/**\n * A letter that is assigned to this cluster in stoichiometry.\n *\n * @param  alpha\n *          String\n */\n","repo_name":"biojava-master/","id":1655,"method_signature":"void setAlpha(String)"}

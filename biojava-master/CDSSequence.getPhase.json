@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CDSSequence.getPhase","method_implementation":"{\n    return phase;\n}","repo_id":"9","comment":"/**\n * @return get the phase\n */\n","repo_name":"biojava-master/","id":3075,"method_signature":"Integer getPhase()"}

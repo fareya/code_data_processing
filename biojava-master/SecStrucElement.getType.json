@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SecStrucElement.getType","method_implementation":"{\n    return type;\n}","repo_id":"9","comment":"/**\n * Returns the {@link SecStrucType} of this element.\n *\n * @return\n */\n","repo_name":"biojava-master/","id":1581,"method_signature":"SecStrucType getType()"}

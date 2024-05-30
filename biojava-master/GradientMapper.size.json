@@ -1,0 +1,1 @@
+{"callee_method_names":["NavigableMap<Double, Color>.size"],"method_name":"GradientMapper.size","method_implementation":"{\n    return mapping.size() - 2;\n}","repo_id":"9","comment":"/**\n * @return Number of finite endpoints\n * @see java.util.Map#size()\n */\n","repo_name":"biojava-master/","id":3359,"method_signature":"int size()"}

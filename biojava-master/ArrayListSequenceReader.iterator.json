@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ArrayListSequenceReader.iterator","method_implementation":"{\n    return this.parsedCompounds.iterator();\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":2966,"method_signature":"Iterator<C> iterator()"}

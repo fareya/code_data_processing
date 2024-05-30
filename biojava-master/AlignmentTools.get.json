@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlignmentTools.get","method_implementation":"{\n    return (K) key;\n}","repo_id":"9","comment":"/**\n * @param key\n * @return the key\n * @throws ClassCastException if key is not of type K\n */\n","repo_name":"biojava-master/","id":587,"method_signature":"K get(Object)"}

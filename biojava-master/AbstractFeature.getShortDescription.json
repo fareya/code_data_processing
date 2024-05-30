@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.getShortDescription","method_implementation":"{\n    return shortDescription;\n}","repo_id":"9","comment":"/**\n * @return the shortDescription\n */\n","repo_name":"biojava-master/","id":3090,"method_signature":"String getShortDescription()"}

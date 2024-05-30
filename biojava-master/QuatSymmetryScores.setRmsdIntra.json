@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.setRmsdIntra","method_implementation":"{\n    this.rmsdIntra = rmsdIntra;\n}","repo_id":"9","comment":"/**\n * @param rmsdIntra the rmsdIntra to set\n */\n","repo_name":"biojava-master/","id":1953,"method_signature":"void setRmsdIntra(double)"}

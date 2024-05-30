@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryParameters.getLocalTimeStart","method_implementation":"{\n    return localTimeStart;\n}","repo_id":"9","comment":"/**\n * @return the localTimeStart\n */\n","repo_name":"biojava-master/","id":1913,"method_signature":"double getLocalTimeStart()"}

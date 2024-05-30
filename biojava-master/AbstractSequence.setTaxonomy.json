@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setTaxonomy","method_implementation":"{\n    this.taxonomy = taxonomy;\n}","repo_id":"9","comment":"/**\n * @param taxonomy the species to set\n */\n","repo_name":"biojava-master/","id":2939,"method_signature":"void setTaxonomy(TaxonomyID)"}

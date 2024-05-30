@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SSBondImpl.setSerNum","method_implementation":"{\n    this.serNum = serNum;\n}","repo_id":"9","comment":"/**\n * get serial number of this SSBOND in PDB file\n *\n * @param serNum\n */\n","repo_name":"biojava-master/","id":1145,"method_signature":"void setSerNum(int)"}

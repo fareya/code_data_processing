@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.bioStart","method_implementation":"{\n    return plus().start() + 1;\n}","repo_id":"9","comment":"/**\n * Get start index, in biocoordinates.\n *\n * @return The origin 1 index of the first symbol in location.\n */\n","repo_name":"biojava-master/","id":2393,"method_signature":"int bioStart()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StartupParameters.setPrintCE","method_implementation":"{\n    this.printCE = printCE;\n}","repo_id":"9","comment":"/**\n * Display the output string in CE style\n *\n * @param printCE a flag\n */\n","repo_name":"biojava-master/","id":767,"method_signature":"void setPrintCE(boolean)"}

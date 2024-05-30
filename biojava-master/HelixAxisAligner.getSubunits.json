@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"HelixAxisAligner.getSubunits","method_implementation":"{\n    return subunits;\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.quaternary.core.AxisAligner#getSubunits()\n\t */\n","repo_name":"biojava-master/","id":1971,"method_signature":"QuatSymmetrySubunits getSubunits()"}

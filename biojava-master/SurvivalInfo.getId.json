@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.getId","method_implementation":"{\n    return id;\n}","repo_id":"9","comment":"/**\n * @return the id\n */\n","repo_name":"biojava-master/","id":3669,"method_signature":"String getId()"}

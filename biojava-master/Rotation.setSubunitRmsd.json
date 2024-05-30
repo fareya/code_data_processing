@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.setSubunitRmsd","method_implementation":"{\n    this.subunitRmsd = subunitRmsd;\n}","repo_id":"9","comment":"/**\n * @param subunitRmsd the subunitRmsd to set\n */\n","repo_name":"biojava-master/","id":1852,"method_signature":"void setSubunitRmsd(double)"}

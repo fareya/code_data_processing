@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setAnnotationType","method_implementation":"{\n    this.annotationType = annotationType;\n}","repo_id":"9","comment":"/**\n * @param annotationType the annotation to set\n */\n","repo_name":"biojava-master/","id":2907,"method_signature":"void setAnnotationType(AnnotationType)"}

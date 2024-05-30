@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JMatrixPanel.setMatrix","method_implementation":"{\n    this.matrix = matrix;\n    setPreferredSize();\n}","repo_id":"9","comment":"/**\n * sets the distance matrix to be displayed\n *\n * @param matrix\n */\n","repo_name":"biojava-master/","id":3311,"method_signature":"void setMatrix(Matrix)"}

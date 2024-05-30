@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DNASequence.getReverse","method_implementation":"{\n    return new ReversedSequenceView<NucleotideCompound>(this);\n}","repo_id":"9","comment":"/**\n * Returns a Sequence which runs in the current reverse order\n */\n","repo_name":"biojava-master/","id":2639,"method_signature":"SequenceView<NucleotideCompound> getReverse()"}

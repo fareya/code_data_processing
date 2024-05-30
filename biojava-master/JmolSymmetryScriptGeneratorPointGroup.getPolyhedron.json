@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolSymmetryScriptGeneratorPointGroup.getPolyhedron","method_implementation":"{\n    return polyhedron;\n}","repo_id":"9","comment":"/**\n * @return the polyhedron\n */\n","repo_name":"biojava-master/","id":3405,"method_signature":"Polyhedron getPolyhedron()"}

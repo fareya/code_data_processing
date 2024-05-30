@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.setFigureLineInfo","method_implementation":"{\n    this.lineInfoList = lineInfoList;\n    this.repaint();\n}","repo_id":"9","comment":"/**\n * @param lineInfoList\n */\n","repo_name":"biojava-master/","id":3789,"method_signature":"void setFigureLineInfo(ArrayList)"}

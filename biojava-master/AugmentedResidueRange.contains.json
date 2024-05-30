@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AugmentedResidueRange.contains","method_implementation":"{\n    return super.contains(residueNumber, map);\n}","repo_id":"9","comment":"/**\n * @return True if and only if {@code residueNumber} is within this ResidueRange\n */\n","repo_name":"biojava-master/","id":1685,"method_signature":"boolean contains(ResidueNumber)"}

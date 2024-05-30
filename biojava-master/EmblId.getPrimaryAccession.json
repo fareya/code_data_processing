@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblId.getPrimaryAccession","method_implementation":"{\n    return primaryAccession;\n}","repo_id":"9","comment":"/**\n * @return String\n */\n","repo_name":"biojava-master/","id":2730,"method_signature":"String getPrimaryAccession()"}

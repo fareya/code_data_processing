@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GeneSequence.setStrand","method_implementation":"{\n    this.strand = strand;\n}","repo_id":"9","comment":"/**\n * @param strand the strand to set\n */\n","repo_name":"biojava-master/","id":3063,"method_signature":"void setStrand(Strand)"}

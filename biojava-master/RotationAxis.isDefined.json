@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"RotationAxis.isDefined","method_implementation":"{\n    return rotationPos != null;\n}","repo_id":"9","comment":"/**\n * @return If the rotation axis is well defined, rather than purely translational\n */\n","repo_name":"biojava-master/","id":575,"method_signature":"boolean isDefined()"}

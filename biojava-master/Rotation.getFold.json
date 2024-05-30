@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.getFold","method_implementation":"{\n    return fold;\n}","repo_id":"9","comment":"/**\n * @return the fold\n */\n","repo_name":"biojava-master/","id":1861,"method_signature":"int getFold()"}

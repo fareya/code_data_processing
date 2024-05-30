@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DNASequence.getDNAType","method_implementation":"{\n    return dnaType;\n}","repo_id":"9","comment":"/**\n * @return the dnaType\n */\n","repo_name":"biojava-master/","id":2642,"method_signature":"DNAType getDNAType()"}

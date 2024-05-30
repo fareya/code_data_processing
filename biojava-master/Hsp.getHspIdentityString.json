@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Hsp.getHspIdentityString","method_implementation":"{\n    return hspIdentityString;\n}","repo_id":"9","comment":"/**\n * Identity string representing correspondence between aligned residues\n * @return\n */\n","repo_name":"biojava-master/","id":2547,"method_signature":"String getHspIdentityString()"}

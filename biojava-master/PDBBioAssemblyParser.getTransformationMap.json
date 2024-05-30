@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBBioAssemblyParser.getTransformationMap","method_implementation":"{\n    return transformationMap;\n}","repo_id":"9","comment":"/**\n * Returns a map of bioassembly transformations\n * @return\n */\n","repo_name":"biojava-master/","id":1226,"method_signature":"Map<Integer,BioAssemblyInfo> getTransformationMap()"}

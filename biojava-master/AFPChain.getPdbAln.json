@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getPdbAln","method_implementation":"{\n    return pdbAln;\n}","repo_id":"9","comment":"/**\n * used temporarily during XML serialization to track the PDB positions of the alignmnet\n *\n * @return String array\n */\n","repo_name":"biojava-master/","id":481,"method_signature":"String[][][] getPdbAln()"}

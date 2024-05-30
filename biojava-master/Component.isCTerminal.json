@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Component.isCTerminal","method_implementation":"{\n    return isCTerminal;\n}","repo_id":"9","comment":"/**\n * @return true if occurring on C terminal; false, other wise.\n */\n","repo_name":"biojava-master/","id":313,"method_signature":"boolean isCTerminal()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractScoresCache.clear","method_implementation":"{\n    scores = null;\n}","repo_id":"9","comment":"/**\n * Clear the cached scores. This frees memory after the alignment changed.\n */\n","repo_name":"biojava-master/","id":652,"method_signature":"void clear()"}

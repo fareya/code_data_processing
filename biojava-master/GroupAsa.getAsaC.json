@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupAsa.getAsaC","method_implementation":"{\n    return asaC;\n}","repo_id":"9","comment":"/**\n * Returns the ASA of the residue in the complexed state\n * @return\n */\n","repo_name":"biojava-master/","id":841,"method_signature":"double getAsaC()"}

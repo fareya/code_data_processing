@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.setRmsdCenters","method_implementation":"{\n    this.rmsdCenters = rmsdCenters;\n}","repo_id":"9","comment":"/**\n * @param rmsdCenters the rmsdCenters to set\n */\n","repo_name":"biojava-master/","id":1951,"method_signature":"void setRmsdCenters(double)"}

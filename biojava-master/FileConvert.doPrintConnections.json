@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FileConvert.doPrintConnections","method_implementation":"{\n    return printConnections;\n}","repo_id":"9","comment":"/**\n * Returns if the Connections should be added\n * default is true;\n * @return if the printConnections flag is set\n */\n","repo_name":"biojava-master/","id":1149,"method_signature":"boolean doPrintConnections()"}

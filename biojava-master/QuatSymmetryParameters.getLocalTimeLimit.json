@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryParameters.getLocalTimeLimit","method_implementation":"{\n    return localTimeLimit;\n}","repo_id":"9","comment":"/**\n * @return the localTimeLimit\n */\n","repo_name":"biojava-master/","id":1911,"method_signature":"double getLocalTimeLimit()"}

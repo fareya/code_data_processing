@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlternativeAlignment.getCluster","method_implementation":"{\n    return cluster;\n}","repo_id":"9","comment":"/**\n * get the number of the cluster this alignment belongs to\n *\n * @return an int giving the number of the cluster\n */\n","repo_name":"biojava-master/","id":811,"method_signature":"int getCluster()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.setTraceRmsd","method_implementation":"{\n    this.traceRmsd = traceRmsd;\n}","repo_id":"9","comment":"/**\n * @param traceRmsd the traceRmsd to set\n */\n","repo_name":"biojava-master/","id":1854,"method_signature":"void setTraceRmsd(double)"}

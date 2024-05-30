@@ -1,0 +1,1 @@
+{"callee_method_ids":[465],"callee_method_names":["StructureName.getPdbId"],"method_name":"PdbPair.getPdbId2","method_implementation":"{\n    return name2.getPdbId();\n}","repo_id":"9","comment":"/**\n * @since 6.0.0\n * @return\n * @throws StructureException\n */\n","repo_name":"biojava-master/","id":475,"method_signature":"PdbId getPdbId2()"}

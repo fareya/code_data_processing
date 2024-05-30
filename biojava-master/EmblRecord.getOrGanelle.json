@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblRecord.getOrGanelle","method_implementation":"{\n    return orGanelle;\n}","repo_id":"9","comment":"/**\n * The OG (OrGanelle) linetype indicates the sub-cellular location of non-nuclear\n * sequences.\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2739,"method_signature":"String getOrGanelle()"}

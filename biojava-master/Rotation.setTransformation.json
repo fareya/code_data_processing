@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.setTransformation","method_implementation":"{\n    this.transformation = transformation;\n}","repo_id":"9","comment":"/**\n * @param transformation the transformation to set\n */\n","repo_name":"biojava-master/","id":1860,"method_signature":"void setTransformation(Matrix4d)"}

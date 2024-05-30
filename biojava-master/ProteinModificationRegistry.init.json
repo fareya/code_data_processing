@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ProteinModificationRegistry.init","method_implementation":"{\n    lazyInit();\n}","repo_id":"9","comment":"/**\n * Initialization the static variables and register common modifications.\n */\n","repo_name":"biojava-master/","id":244,"method_signature":"void init()"}

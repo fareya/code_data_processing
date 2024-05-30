@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GuideTree.getRoot","method_implementation":"{\n    return root;\n}","repo_id":"9","comment":"/**\n * Returns the root {@link Node} which corresponds to the full multiple sequence alignment.\n *\n * @return the root node\n */\n","repo_name":"biojava-master/","id":9,"method_signature":"Node getRoot()"}

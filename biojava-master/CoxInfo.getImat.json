@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getImat","method_implementation":"{\n    return imat;\n}","repo_id":"9","comment":"/**\n * @return the imat\n */\n","repo_name":"biojava-master/","id":3639,"method_signature":"double[][] getImat()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EntityInfo.setRefChainId","method_implementation":"{\n    this.refChainId = refChainId;\n}","repo_id":"9","comment":"/**\n * Return the ref chain id value.\n * @param refChainId the RefChainID\n * @see #getRefChainId()\n */\n","repo_name":"biojava-master/","id":1345,"method_signature":"void setRefChainId(String)"}

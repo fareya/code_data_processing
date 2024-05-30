@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"KaplanMeierFigure.getTimeAxisIncrementPercentage","method_implementation":"{\n    return adjustedPercentIncrement;\n}","repo_id":"9","comment":"/**\n * Get the percentage increment for the time axis\n *\n * @return\n */\n","repo_name":"biojava-master/","id":3808,"method_signature":"Double getTimeAxisIncrementPercentage()"}

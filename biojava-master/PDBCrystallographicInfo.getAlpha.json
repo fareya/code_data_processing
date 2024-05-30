@@ -1,0 +1,1 @@
+{"callee_method_names":["CrystalCell.getAlpha"],"method_name":"PDBCrystallographicInfo.getAlpha","method_implementation":"{\n    return (float) cell.getAlpha();\n}","repo_id":"9","comment":"/**\n * @return the unit cell parameter alpha (degrees)\n */\n","repo_name":"biojava-master/","id":1407,"method_signature":"float getAlpha()"}

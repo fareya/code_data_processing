@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EntityInfo.getId","method_implementation":"{\n    return id;\n}","repo_id":"9","comment":"/**\n * get the ID used by Hibernate\n *\n * @return the ID used by Hibernate\n */\n","repo_name":"biojava-master/","id":1340,"method_signature":"Long getId()"}

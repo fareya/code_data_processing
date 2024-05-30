@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceProxyView.getBioEnd","method_implementation":"{\n    return bioEnd;\n}","repo_id":"9","comment":"/**\n * @return the bioEnd\n */\n","repo_name":"biojava-master/","id":2953,"method_signature":"Integer getBioEnd()"}

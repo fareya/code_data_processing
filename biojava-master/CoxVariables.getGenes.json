@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxVariables.getGenes","method_implementation":"{\n    return genes;\n}","repo_id":"9","comment":"/**\n * @return the genes\n */\n","repo_name":"biojava-master/","id":3560,"method_signature":"String getGenes()"}

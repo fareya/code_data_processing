@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeParameters.getRmsdThrJoin","method_implementation":"{\n    return rmsdThrJoin;\n}","repo_id":"9","comment":"/**\n * RMSD threshold for joining of AFPs\n *\n * @return rmsd threshold\n */\n","repo_name":"biojava-master/","id":748,"method_signature":"Double getRmsdThrJoin()"}

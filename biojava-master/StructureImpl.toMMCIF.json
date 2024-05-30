@@ -1,0 +1,1 @@
+{"callee_method_ids":[1160],"callee_method_names":["FileConvert.toMMCIF"],"method_name":"StructureImpl.toMMCIF","method_implementation":"{\n    FileConvert f = new FileConvert(this);\n    return f.toMMCIF();\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2140,"method_signature":"String toMMCIF()"}

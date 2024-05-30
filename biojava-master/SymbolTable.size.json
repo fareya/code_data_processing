@@ -1,0 +1,1 @@
+{"callee_method_names":["TreeMap<Key, Value>.size"],"method_name":"SymbolTable.size","method_implementation":"{\n    return st.size();\n}","repo_id":"9","comment":"/**\n * How many keys are in the table?\n */\n","repo_name":"biojava-master/","id":858,"method_signature":"int size()"}

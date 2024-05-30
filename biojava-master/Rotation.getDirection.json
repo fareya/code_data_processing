@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Rotation.getDirection","method_implementation":"{\n    return direction;\n}","repo_id":"9","comment":"/**\n * @return the direction\n */\n","repo_name":"biojava-master/","id":1865,"method_signature":"int getDirection()"}

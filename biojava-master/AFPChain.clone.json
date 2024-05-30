@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.clone","method_implementation":"{\n    return new AFPChain(this);\n}","repo_id":"9","comment":"/**\n * Creates and returns a copy of this object.\n */\n","repo_name":"biojava-master/","id":476,"method_signature":"Object clone()"}

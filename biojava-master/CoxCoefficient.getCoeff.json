@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getCoeff","method_implementation":"{\n    return coeff;\n}","repo_id":"9","comment":"/**\n * @return the coeff\n */\n","repo_name":"biojava-master/","id":3531,"method_signature":"double getCoeff()"}

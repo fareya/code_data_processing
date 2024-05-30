@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractNucleotideCompoundSet.isComplementable","method_implementation":"{\n    return true;\n}","repo_id":"9","comment":"/**\n * NucleotideCompounds can always complement\n */\n","repo_name":"biojava-master/","id":2957,"method_signature":"boolean isComplementable()"}

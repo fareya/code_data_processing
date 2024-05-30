@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolPanel.destroy","method_implementation":"{\n    executeCmd(\"zap;\");\n    structure = null;\n    viewer = null;\n    adapter = null;\n}","repo_id":"9","comment":"/**\n * Clean up this instance for garbage collection, to avoid memory leaks...\n */\n","repo_name":"biojava-master/","id":3278,"method_signature":"void destroy()"}

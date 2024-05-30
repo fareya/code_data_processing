@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AccessionID.getVersion","method_implementation":"{\n    return version;\n}","repo_id":"9","comment":"/**\n * In case if the {@link #getID() } is not unique keeps the id version.\n * @return the version\n */\n","repo_name":"biojava-master/","id":3058,"method_signature":"Integer getVersion()"}

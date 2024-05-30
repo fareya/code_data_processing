@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getStandardDeviation","method_implementation":"{\n    return standardDeviation;\n}","repo_id":"9","comment":"/**\n * @return the standardDeviation\n */\n","repo_name":"biojava-master/","id":3540,"method_signature":"double getStandardDeviation()"}

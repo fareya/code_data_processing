@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ExpressionFigure.getFileName","method_implementation":"{\n    return fileName;\n}","repo_id":"9","comment":"/**\n * @return the fileName\n */\n","repo_name":"biojava-master/","id":3820,"method_signature":"String getFileName()"}

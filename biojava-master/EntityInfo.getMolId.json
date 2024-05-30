@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EntityInfo.getMolId","method_implementation":"{\n    return molId;\n}","repo_id":"9","comment":"/**\n * Return the molecule identifier, called entity_id in mmCIF dictionary.\n * @return the molecule id\n * @see #setMolId(int)\n */\n","repo_name":"biojava-master/","id":1346,"method_signature":"int getMolId()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["HashMap.get"],"method_name":"NCBIQBlastOutputProperties.getOutputOption","method_implementation":"{\n    return param.get(key);\n}","repo_id":"9","comment":"/**\n * Gets the value of specified parameter or {@code null} if it is not set\n */\n","repo_name":"biojava-master/","id":3450,"method_signature":"String getOutputOption(BlastOutputParameterEnum)"}

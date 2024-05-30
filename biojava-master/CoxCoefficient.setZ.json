@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.setZ","method_implementation":"{\n    this.z = z;\n}","repo_id":"9","comment":"/**\n * @param z the z to set\n */\n","repo_name":"biojava-master/","id":3545,"method_signature":"void setZ(double)"}

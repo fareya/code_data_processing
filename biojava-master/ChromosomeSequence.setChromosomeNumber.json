@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ChromosomeSequence.setChromosomeNumber","method_implementation":"{\n    this.chromosomeNumber = chromosomeNumber;\n}","repo_id":"9","comment":"/**\n * @param chromosomeNumber the chromosomeNumber to set\n */\n","repo_name":"biojava-master/","id":3179,"method_signature":"void setChromosomeNumber(int)"}

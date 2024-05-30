@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DefaultMatrixMapper.setScalevalue","method_implementation":"{\n    this.scalevalue = scalevalue;\n}","repo_id":"9","comment":"/**\n * @param scalevalue the scalevalue to set\n */\n","repo_name":"biojava-master/","id":3366,"method_signature":"void setScalevalue(double)"}

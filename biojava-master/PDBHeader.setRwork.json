@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.setRwork","method_implementation":"{\n    this.rWork = rWork;\n}","repo_id":"9","comment":"/**\n * @param rWork  the R-work for this structure.\n */\n","repo_name":"biojava-master/","id":1787,"method_signature":"void setRwork(float)"}

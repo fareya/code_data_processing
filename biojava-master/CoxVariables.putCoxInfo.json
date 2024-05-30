@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.put"],"method_name":"CoxVariables.putCoxInfo","method_implementation":"{\n    coxInfoHashMap.put(name, coxInfo);\n}","repo_id":"9","comment":"/**\n * @param name\n * @param coxInfo\n */\n","repo_name":"biojava-master/","id":3554,"method_signature":"void putCoxInfo(String, CoxInfo)"}

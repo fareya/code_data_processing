@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.setSource","method_implementation":"{\n    this.source = source;\n}","repo_id":"9","comment":"/**\n * Added support for the source of this sequence for GFF3 export\n * @param source the source to set\n */\n","repo_name":"biojava-master/","id":2915,"method_signature":"void setSource(String)"}

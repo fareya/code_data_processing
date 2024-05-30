@@ -18,7 +18,8 @@ def main():
             if filename.endswith('.json'):
                 with open(os.path.join(input_dir, filename), 'r') as f:
                     data = json.load(f)
-                    final_data[data['method_name']]= data
+                    print(data['id'])
+                    final_data[data['id']]= data
         json.dump(final_data, out)
 
 if __name__ == '__main__':

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getUserCollection","method_implementation":"{\n    return userCollection;\n}","repo_id":"9","comment":"/**\n * Provided for convince if the developer needs to associate data with a sequence\n *\n * @return\n */\n","repo_name":"biojava-master/","id":2904,"method_signature":"Collection<Object> getUserCollection()"}

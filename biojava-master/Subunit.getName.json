@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Subunit.getName","method_implementation":"{\n    return name;\n}","repo_id":"9","comment":"/**\n * The Name of a Subunit is a free-text field, user defined.\n *\n * @return the Subunit name\n */\n","repo_name":"biojava-master/","id":1673,"method_signature":"String getName()"}

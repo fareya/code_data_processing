@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Site.setSiteID","method_implementation":"{\n    this.siteID = siteID;\n}","repo_id":"9","comment":"/**\n * @param siteID the siteID to set\n * e.g. CAT, AC1, AC2...\n */\n","repo_name":"biojava-master/","id":1569,"method_signature":"void setSiteID(String)"}

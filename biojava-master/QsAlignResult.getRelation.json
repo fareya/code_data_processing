@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QsAlignResult.getRelation","method_implementation":"{\n    return relation;\n}","repo_id":"9","comment":"/**\n * The quaternary structure relation {@link QsRelation} between the two\n * groups of Subunits.\n *\n * @return relation\n */\n","repo_name":"biojava-master/","id":452,"method_signature":"QsRelation getRelation()"}

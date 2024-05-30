@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JournalArticle.getRef","method_implementation":"{\n    return ref;\n}","repo_id":"9","comment":"/**\n * Get the value of REF field.\n * For example: TO BE PUBLISHED\n *\n * @return the value of ref\n */\n","repo_name":"biojava-master/","id":1530,"method_signature":"String getRef()"}

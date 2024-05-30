@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractAlignmentJmol.setJmolPanel","method_implementation":"{\n    this.jmolPanel = jmolPanel;\n}","repo_id":"9","comment":"/**\n * Set the jmolPanel of the AlignmentJmol instance.\n * @param jmolPanel\n */\n","repo_name":"biojava-master/","id":3270,"method_signature":"void setJmolPanel(JmolPanel)"}

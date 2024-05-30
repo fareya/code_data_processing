@@ -1,0 +1,1 @@
+{"callee_method_names":["LinkedHashMap.get"],"method_name":"SurvivalInfo.getVariable","method_implementation":"{\n    Double value = data.get(variable);\n    return value;\n}","repo_id":"9","comment":"/**\n * @param variable\n * @return\n */\n","repo_name":"biojava-master/","id":3654,"method_signature":"Double getVariable(String)"}

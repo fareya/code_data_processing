@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.size"],"method_name":"SubunitCluster.size","method_implementation":"{\n    return subunits.size();\n}","repo_id":"9","comment":"/**\n * @return the number of Subunits in the cluster\n */\n","repo_name":"biojava-master/","id":1662,"method_signature":"int size()"}

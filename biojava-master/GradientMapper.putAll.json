@@ -1,0 +1,1 @@
+{"callee_method_names":["NavigableMap<Double, Color>.putAll"],"method_name":"GradientMapper.putAll","method_implementation":"{\n    mapping.putAll(m);\n}","repo_id":"9","comment":"/**\n * @param m\n * @see java.util.Map#putAll(java.util.Map)\n */\n","repo_name":"biojava-master/","id":3357,"method_signature":"void putAll(Map)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceFileProxyLoader.setCompoundSet","method_implementation":"{\n    this.compoundSet = compoundSet;\n}","repo_id":"9","comment":"/**\n * @param compoundSet\n */\n","repo_name":"biojava-master/","id":3147,"method_signature":"void setCompoundSet(CompoundSet)"}

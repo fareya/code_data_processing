@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractFeature.setSource","method_implementation":"{\n    this.source = source;\n}","repo_id":"9","comment":"/**\n * Set the feature source\n * @param source\n */\n","repo_name":"biojava-master/","id":3083,"method_signature":"void setSource(String)"}

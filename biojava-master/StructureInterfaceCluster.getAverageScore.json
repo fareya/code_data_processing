@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureInterfaceCluster.getAverageScore","method_implementation":"{\n    return averageScore;\n}","repo_id":"9","comment":"/**\n * Returns the average similarity score between all pairs of members in the cluster\n * @return\n */\n","repo_name":"biojava-master/","id":871,"method_signature":"double getAverageScore()"}

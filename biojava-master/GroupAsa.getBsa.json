@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GroupAsa.getBsa","method_implementation":"{\n    return (asaU - asaC);\n}","repo_id":"9","comment":"/**\n * Returns the BSA value for this group, i.e. the difference between ASA uncomplexed and ASA complexed\n * @return\n */\n","repo_name":"biojava-master/","id":842,"method_signature":"double getBsa()"}

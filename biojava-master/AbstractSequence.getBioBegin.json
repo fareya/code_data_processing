@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getBioBegin","method_implementation":"{\n    if (bioBegin == null) {\n        return 1;\n    } else {\n        return bioBegin;\n    }\n}","repo_id":"9","comment":"/**\n * @return the bioBegin\n */\n","repo_name":"biojava-master/","id":2900,"method_signature":"Integer getBioBegin()"}

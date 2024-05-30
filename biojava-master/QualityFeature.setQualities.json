@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QualityFeature.setQualities","method_implementation":"{\n    this.qualities = qualities;\n}","repo_id":"9","comment":"/**\n * @param qualities the qualities to set\n */\n","repo_name":"biojava-master/","id":3101,"method_signature":"void setQualities(List)"}

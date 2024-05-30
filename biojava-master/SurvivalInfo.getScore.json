@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.getScore","method_implementation":"{\n    return score;\n}","repo_id":"9","comment":"/**\n * @return the score\n */\n","repo_name":"biojava-master/","id":3661,"method_signature":"double getScore()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.setPvalue","method_implementation":"{\n    this.pvalue = pvalue;\n}","repo_id":"9","comment":"/**\n * @param pvalue the pvalue to set\n */\n","repo_name":"biojava-master/","id":3549,"method_signature":"void setPvalue(double)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"WorkSheet.setCacheDoubleValues","method_implementation":"{\n    cacheDoubleValues = value;\n}","repo_id":"9","comment":"/**\n * @param value\n */\n","repo_name":"biojava-master/","id":3739,"method_signature":"void setCacheDoubleValues(boolean)"}

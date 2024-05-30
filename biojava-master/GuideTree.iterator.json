@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GuideTree.iterator","method_implementation":"{\n    return new PostOrderIterator();\n}","repo_id":"9","comment":"/**\n * Returns a post-order {@link Iterator} that traverses the tree from leaves to root.\n */\n","repo_name":"biojava-master/","id":12,"method_signature":"Iterator<GuideTreeNode<S,C>> iterator()"}

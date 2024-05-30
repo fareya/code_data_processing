@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QsAlignParameters.getdCutoff","method_implementation":"{\n    return dCutoff;\n}","repo_id":"9","comment":"/**\n * The maximum allowed distance between the centroids of two equivalent\n * Subunits, in A.\n *\n * @return dCutoff\n */\n","repo_name":"biojava-master/","id":458,"method_signature":"double getdCutoff()"}

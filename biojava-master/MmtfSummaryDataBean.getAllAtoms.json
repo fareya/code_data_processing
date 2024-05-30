@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"MmtfSummaryDataBean.getAllAtoms","method_implementation":"{\n    return allAtoms;\n}","repo_id":"9","comment":"/**\n * @return the list of atoms (in all models) in the structure\n */\n","repo_name":"biojava-master/","id":1279,"method_signature":"List<Atom> getAllAtoms()"}

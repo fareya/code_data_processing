@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodInstallation.getUrl","method_implementation":"{\n    return url;\n}","repo_id":"9","comment":"/**\n * Get the top-level ECOD server URL. Defaults to \"http://prodata.swmed.edu\"\n * @return the url to the ecod server\n */\n","repo_name":"biojava-master/","id":1807,"method_signature":"String getUrl()"}

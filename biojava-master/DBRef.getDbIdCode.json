@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.getDbIdCode","method_implementation":"{\n    return dbIdCode;\n}","repo_id":"9","comment":"/**\n * Sequence database          identification code.\n *\n * @return the dbIdCode\n * @see #setDbIdCode(String)\n */\n","repo_name":"biojava-master/","id":1380,"method_signature":"String getDbIdCode()"}

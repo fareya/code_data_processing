@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GradientMapper.setInterpolator","method_implementation":"{\n    this.interpolator = interpolator;\n}","repo_id":"9","comment":"/**\n * @param interpolator the interpolator to set\n */\n","repo_name":"biojava-master/","id":3362,"method_signature":"void setInterpolator(ColorInterpolator)"}

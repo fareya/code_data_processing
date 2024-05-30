@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.setOrder","method_implementation":"{\n    this.order = order;\n}","repo_id":"9","comment":"/**\n * @param order the order to set\n */\n","repo_name":"biojava-master/","id":3672,"method_signature":"void setOrder(int)"}

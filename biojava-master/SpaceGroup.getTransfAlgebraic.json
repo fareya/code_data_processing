@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SpaceGroup.getTransfAlgebraic","method_implementation":"{\n    return transfAlgebraic;\n}","repo_id":"9","comment":"//@XmlElement\n","repo_name":"biojava-master/","id":1462,"method_signature":"List<String> getTransfAlgebraic()"}

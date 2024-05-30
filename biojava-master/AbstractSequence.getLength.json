@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getLength","method_implementation":"{\n    return getSequenceStorage().getLength();\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":2946,"method_signature":"int getLength()"}

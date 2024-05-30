@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlternativeAlignment.getGaps","method_implementation":"{\n    return gaps0;\n}","repo_id":"9","comment":"/**\n * return the number of gaps in this alignment\n *\n * @return the number of Gaps\n */\n","repo_name":"biojava-master/","id":815,"method_signature":"int getGaps()"}

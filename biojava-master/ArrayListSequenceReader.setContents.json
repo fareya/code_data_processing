@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.clear","ArrayList.add"],"method_name":"ArrayListSequenceReader.setContents","method_implementation":"{\n    parsedCompounds.clear();\n    for (C c : list) {\n        parsedCompounds.add(c);\n    }\n}","repo_id":"9","comment":"/**\n * @param list\n */\n","repo_name":"biojava-master/","id":2970,"method_signature":"void setContents(List)"}

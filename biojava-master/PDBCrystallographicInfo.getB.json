@@ -1,0 +1,1 @@
+{"callee_method_names":["CrystalCell.getB"],"method_name":"PDBCrystallographicInfo.getB","method_implementation":"{\n    return (float) cell.getB();\n}","repo_id":"9","comment":"/**\n * @return the unit cell parameter b\n */\n","repo_name":"biojava-master/","id":1405,"method_signature":"float getB()"}

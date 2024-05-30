@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.setOffset","method_implementation":"{\n    this.offset = offset;\n}","repo_id":"9","comment":"/**\n * @param offset the offset to set\n */\n","repo_name":"biojava-master/","id":3656,"method_signature":"void setOffset(double)"}

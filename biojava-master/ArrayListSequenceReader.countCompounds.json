@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ArrayListSequenceReader.countCompounds","method_implementation":"{\n    return SequenceMixin.countCompounds(this, compounds);\n}","repo_id":"9","comment":"/**\n * @param compounds\n * @return\n */\n","repo_name":"biojava-master/","id":2973,"method_signature":"int countCompounds(C[])"}

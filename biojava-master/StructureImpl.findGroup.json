@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.findGroup","method_implementation":"{\n    return findGroup(chainName, pdbResnum, 0);\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2116,"method_signature":"Group findGroup(String, String)"}

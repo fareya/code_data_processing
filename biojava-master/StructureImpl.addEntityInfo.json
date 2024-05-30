@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.addEntityInfo","method_implementation":"{\n    this.entityInfos.add(entityInfo);\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2145,"method_signature":"void addEntityInfo(EntityInfo)"}

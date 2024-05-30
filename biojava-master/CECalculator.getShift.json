@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CECalculator.getShift","method_implementation":"{\n    return t;\n}","repo_id":"9","comment":"/**\n * Gets the shift from the last call to\n * {@link #calc_rmsd(Atom[], Atom[], int, boolean) calc_rmsd}.\n * @return The shift\n */\n","repo_name":"biojava-master/","id":728,"method_signature":"Atom getShift()"}

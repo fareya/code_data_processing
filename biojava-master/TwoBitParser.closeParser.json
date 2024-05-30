@@ -1,0 +1,1 @@
+{"callee_method_names":["RandomAccessFile.close"],"method_name":"TwoBitParser.closeParser","method_implementation":"{\n    raf.close();\n}","repo_id":"9","comment":"/**\n * Method closes random access file descriptor. You can't use any reading methods\n * after it.\n * @throws Exception\n */\n","repo_name":"biojava-master/","id":2386,"method_signature":"void closeParser()"}

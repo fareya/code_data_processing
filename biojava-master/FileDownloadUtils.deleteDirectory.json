@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FileDownloadUtils.deleteDirectory","method_implementation":"{\n    deleteDirectory(Paths.get(dir));\n}","repo_id":"9","comment":"/**\n * Recursively delete a folder & contents\n *\n * @param dir directory to delete\n */\n","repo_name":"biojava-master/","id":2578,"method_signature":"void deleteDirectory(String)"}

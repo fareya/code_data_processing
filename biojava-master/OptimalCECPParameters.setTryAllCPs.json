@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"OptimalCECPParameters.setTryAllCPs","method_implementation":"{\n    this.tryAllCPs = tryAllCPs;\n}","repo_id":"9","comment":"/**\n * @param tryAllCPs Set whether we should try all CP sites\n */\n","repo_name":"biojava-master/","id":708,"method_signature":"void setTryAllCPs(Boolean)"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolSymmetryScriptGeneratorPointGroup.showAxes","method_implementation":"{\n    return \"draw axes* on;\";\n}","repo_id":"9","comment":"/* (non-Javadoc)\n\t * @see org.biojava.nbio.structure.quaternary.jmolScript.JMolSymmetryScriptInterface#showAxes()\n\t */\n","repo_name":"biojava-master/","id":3394,"method_signature":"String showAxes()"}

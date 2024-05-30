@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FatCatParameters.getMaxTra","method_implementation":"{\n    return maxTra;\n}","repo_id":"9","comment":"/**\n * get the maximum number of Twists that are allowed...\n *\n * @return max nr of allowed twists\n */\n","repo_name":"biojava-master/","id":432,"method_signature":"Integer getMaxTra()"}

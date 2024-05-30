@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Matrix.abs","method_implementation":"{\n    int m = A.length;\n    double[] C = new double[m];\n    for (int i = 0; i < m; i++) {\n        C[i] = Math.abs(A[i]);\n    }\n    return C;\n}","repo_id":"9","comment":"/**\n * @param A\n * @return\n */\n","repo_name":"biojava-master/","id":3576,"method_signature":"double[] abs(double[])"}

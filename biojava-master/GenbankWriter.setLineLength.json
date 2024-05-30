@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"GenbankWriter.setLineLength","method_implementation":"{\n    this.lineLength = lineLength;\n}","repo_id":"9","comment":"/**\n * @param lineLength\n *            the lineLength to set\n */\n","repo_name":"biojava-master/","id":2793,"method_signature":"void setLineLength(int)"}

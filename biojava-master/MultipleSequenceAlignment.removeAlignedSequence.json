@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.remove"],"method_name":"MultipleSequenceAlignment.removeAlignedSequence","method_implementation":"{\n    return sequences.remove(sequence);\n}","repo_id":"9","comment":"/**\n * Remove a sequence\n * @param sequence\n * @return flag\n */\n","repo_name":"biojava-master/","id":2671,"method_signature":"boolean removeAlignedSequence(S)"}

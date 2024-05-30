@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"LocalPDBDirectory.getFetchBehavior","method_implementation":"{\n    return fetchBehavior;\n}","repo_id":"9","comment":"/**\n * Get the behavior for fetching files from the server\n * @return\n */\n","repo_name":"biojava-master/","id":1128,"method_signature":"FetchBehavior getFetchBehavior()"}

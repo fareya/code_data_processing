@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodParser.getVersion","method_implementation":"{\n    return version;\n}","repo_id":"9","comment":"/**\n * @return the requestedVersion for this file, or null if none was parsed\n */\n","repo_name":"biojava-master/","id":1823,"method_signature":"String getVersion()"}

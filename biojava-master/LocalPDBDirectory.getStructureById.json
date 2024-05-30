@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"LocalPDBDirectory.getStructureById","method_implementation":"{\n    InputStream inStream = getInputStream(pdbId);\n    return getStructure(inStream);\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":1131,"method_signature":"Structure getStructureById(PdbId)"}

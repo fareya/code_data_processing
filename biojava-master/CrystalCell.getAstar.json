@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CrystalCell.getAstar","method_implementation":"{\n    return (this.b * this.c * Math.sin(alphaRad)) / getVolume();\n}","repo_id":"9","comment":"// see Table 2.1 of chapter 2 of Giacovazzo\n","repo_name":"biojava-master/","id":1474,"method_signature":"double getAstar()"}

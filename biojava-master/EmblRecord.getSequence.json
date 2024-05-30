@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblRecord.getSequence","method_implementation":"{\n    return sequence;\n}","repo_id":"9","comment":"/**\n * The Sequence Data Line\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2753,"method_signature":"String getSequence()"}

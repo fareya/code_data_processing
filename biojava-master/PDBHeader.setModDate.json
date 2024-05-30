@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"PDBHeader.setModDate","method_implementation":"{\n    this.modDate = modDate;\n}","repo_id":"9","comment":"/**\n * The latest modification date of the structure.\n *\n * @param modDate the latest modification date\n */\n","repo_name":"biojava-master/","id":1775,"method_signature":"void setModDate(Date)"}

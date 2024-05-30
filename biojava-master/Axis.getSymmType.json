@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Axis.getSymmType","method_implementation":"{\n    return symmType;\n}","repo_id":"9","comment":"/**\n * @return the symmType (OPEN or CLOSED only)\n */\n","repo_name":"biojava-master/","id":2108,"method_signature":"SymmetryType getSymmType()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleAlignedSequence.toString","method_implementation":"{\n    return getSequenceAsString();\n}","repo_id":"9","comment":"/**\n * Provides standard Java language access to results of {@link #getSequenceAsString()}.\n */\n","repo_name":"biojava-master/","id":2542,"method_signature":"String toString()"}

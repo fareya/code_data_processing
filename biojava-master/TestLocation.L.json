@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"TestLocation.L","method_implementation":"{\n    return new Location(s, e);\n}","repo_id":"9","comment":"//shorthand for testing\n","repo_name":"biojava-master/","id":2503,"method_signature":"Location L(int, int)"}

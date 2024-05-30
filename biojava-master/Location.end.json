@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.end","method_implementation":"{\n    return mEnd;\n}","repo_id":"9","comment":"/**\n * Get the ending index.\n *\n * @return The index of last symbol + 1 (remember Java half-open coordinates).\n */\n","repo_name":"biojava-master/","id":2400,"method_signature":"int end()"}

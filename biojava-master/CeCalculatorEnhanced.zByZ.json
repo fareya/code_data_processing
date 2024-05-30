@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CeCalculatorEnhanced.zByZ","method_implementation":"{\n    double p1 = zToP(z1);\n    double p2 = zToP(z2);\n    return (pToZ(p1 * p2));\n}","repo_id":"9","comment":"///////////////////////////////////////////////////////////////////////////\n","repo_name":"biojava-master/","id":740,"method_signature":"double zByZ(double, double)"}

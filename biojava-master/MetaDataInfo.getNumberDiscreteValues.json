@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.size"],"method_name":"MetaDataInfo.getNumberDiscreteValues","method_implementation":"{\n    return discreteValues.size();\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3825,"method_signature":"int getNumberDiscreteValues()"}

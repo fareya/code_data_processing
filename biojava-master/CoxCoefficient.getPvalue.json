@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxCoefficient.getPvalue","method_implementation":"{\n    return pvalue;\n}","repo_id":"9","comment":"/**\n * @return the pvalue\n */\n","repo_name":"biojava-master/","id":3538,"method_signature":"double getPvalue()"}

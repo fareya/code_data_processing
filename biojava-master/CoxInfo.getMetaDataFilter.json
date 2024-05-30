@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getMetaDataFilter","method_implementation":"{\n    return metaDataFilter;\n}","repo_id":"9","comment":"/**\n * @return the metaDataFilter\n */\n","repo_name":"biojava-master/","id":3635,"method_signature":"LinkedHashMap<String,String> getMetaDataFilter()"}

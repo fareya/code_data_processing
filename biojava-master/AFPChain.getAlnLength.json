@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getAlnLength","method_implementation":"{\n    return alnLength;\n}","repo_id":"9","comment":"/**\n * @return The total length of the alignment, including gaps\n * @see #getOptLength(), the number of aligned residues in the final alignment.\n */\n","repo_name":"biojava-master/","id":492,"method_signature":"int getAlnLength()"}

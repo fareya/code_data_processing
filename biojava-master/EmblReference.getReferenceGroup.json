@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EmblReference.getReferenceGroup","method_implementation":"{\n    return referenceGroup;\n}","repo_id":"9","comment":"/**\n * The RG (Reference Group) lines list the working groups/consortia that\n * produced the record.\n *\n * @return String\n */\n","repo_name":"biojava-master/","id":2758,"method_signature":"String getReferenceGroup()"}

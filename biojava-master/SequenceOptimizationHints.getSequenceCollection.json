@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceOptimizationHints.getSequenceCollection","method_implementation":"{\n    return sequenceCollection;\n}","repo_id":"9","comment":"/**\n * @return the sequenceColection\n */\n","repo_name":"biojava-master/","id":2632,"method_signature":"SequenceCollection getSequenceCollection()"}

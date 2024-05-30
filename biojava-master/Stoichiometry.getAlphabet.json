@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Stoichiometry.getAlphabet","method_implementation":"{\n    return alphabet;\n}","repo_id":"9","comment":"/**\n * @return Alphabet (a sequence of characters) used in this stoichiometry to construct human-readable representation.\n */\n","repo_name":"biojava-master/","id":1896,"method_signature":"String getAlphabet()"}

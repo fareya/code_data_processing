@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"UniprotProxySequenceReader.getAsList","method_implementation":"{\n    return this.parsedCompounds;\n}","repo_id":"9","comment":"/**\n * @return\n */\n","repo_name":"biojava-master/","id":3121,"method_signature":"List<C> getAsList()"}

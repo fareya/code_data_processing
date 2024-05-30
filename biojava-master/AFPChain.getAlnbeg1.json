@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AFPChain.getAlnbeg1","method_implementation":"{\n    return alnbeg1;\n}","repo_id":"9","comment":"/**\n * @return The index of the first aligned residue in protein 1\n */\n","repo_name":"biojava-master/","id":493,"method_signature":"int getAlnbeg1()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":["ArrayList.add"],"method_name":"QuantityFeature.addQuantity","method_implementation":"{\n    quantities.add(value);\n}","repo_id":"9","comment":"/**\n * @param value\n */\n","repo_name":"biojava-master/","id":3110,"method_signature":"void addQuantity(Number)"}

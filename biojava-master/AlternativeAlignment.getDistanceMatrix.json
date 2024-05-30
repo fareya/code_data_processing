@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AlternativeAlignment.getDistanceMatrix","method_implementation":"{\n    return distanceMatrix;\n}","repo_id":"9","comment":"/**\n * The distance matrix this alignment is based on\n *\n * @return a Matrix object.\n */\n","repo_name":"biojava-master/","id":829,"method_signature":"Matrix getDistanceMatrix()"}

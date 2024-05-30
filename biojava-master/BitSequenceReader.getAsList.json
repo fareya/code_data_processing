@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"BitSequenceReader.getAsList","method_implementation":"{\n    return SequenceMixin.toList(this);\n}","repo_id":"9","comment":"/**\n * Returns this Sequence store as a List\n */\n","repo_name":"biojava-master/","id":2986,"method_signature":"List<C> getAsList()"}

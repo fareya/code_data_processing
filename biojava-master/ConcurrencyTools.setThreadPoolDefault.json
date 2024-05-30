@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"ConcurrencyTools.setThreadPoolDefault","method_implementation":"{\n    setThreadPoolCPUsAvailable(0);\n}","repo_id":"9","comment":"/**\n * Sets thread pool to default of 1 background thread for each processor core.\n */\n","repo_name":"biojava-master/","id":2610,"method_signature":"void setThreadPoolDefault()"}

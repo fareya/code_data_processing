@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SimpleGapPenalty.setExtensionPenalty","method_implementation":"{\n    this.gep = -Math.abs(gep);\n    setType();\n}","repo_id":"9","comment":"/**\n * @param gep Should be nonnegative\n */\n","repo_name":"biojava-master/","id":4,"method_signature":"void setExtensionPenalty(int)"}

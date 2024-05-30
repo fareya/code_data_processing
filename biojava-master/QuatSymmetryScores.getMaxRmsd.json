@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.getMaxRmsd","method_implementation":"{\n    return maxRmsd;\n}","repo_id":"9","comment":"/**\n * @return the maxRmsd\n */\n","repo_name":"biojava-master/","id":1940,"method_signature":"double getMaxRmsd()"}

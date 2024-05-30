@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CifStructureConverter.toCifFile","method_implementation":"{\n    return new CifChainSupplierImpl().get(chain);\n}","repo_id":"9","comment":"/**\n * Convert Chain to CifFile\n * @param chain the source\n * @return the target\n */\n","repo_name":"biojava-master/","id":1215,"method_signature":"CifFile toCifFile(Chain)"}

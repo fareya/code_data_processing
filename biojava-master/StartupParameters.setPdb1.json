@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StartupParameters.setPdb1","method_implementation":"{\n    this.pdb1 = pdb1;\n}","repo_id":"9","comment":"/**\n * mandatory argument to set the first PDB (and optionally chain ID) to be aligned.\n *\n * @param pdb1\n */\n","repo_name":"biojava-master/","id":768,"method_signature":"void setPdb1(String)"}

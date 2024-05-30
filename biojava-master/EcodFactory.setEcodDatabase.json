@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"EcodFactory.setEcodDatabase","method_implementation":"{\n    getEcodDatabase(version);\n    defaultVersion = version;\n}","repo_id":"9","comment":"/**\n * Updates the default version\n * @param version\n */\n","repo_name":"biojava-master/","id":1800,"method_signature":"void setEcodDatabase(String)"}

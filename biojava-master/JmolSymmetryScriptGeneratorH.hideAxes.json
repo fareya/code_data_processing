@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"JmolSymmetryScriptGeneratorH.hideAxes","method_implementation":"{\n    return \"draw axes* off;\";\n}","repo_id":"9","comment":"/**\n * Returns a Jmol script to hide axes\n * @return Jmol script\n */\n","repo_name":"biojava-master/","id":3415,"method_signature":"String hideAxes()"}

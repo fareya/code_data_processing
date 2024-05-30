@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Model>.size"],"method_name":"StructureImpl.nrModels","method_implementation":"{\n    return models.size();\n}","repo_id":"9","comment":"/**\n * return number of models.\n */\n","repo_name":"biojava-master/","id":2130,"method_signature":"int nrModels()"}

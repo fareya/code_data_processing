@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SubunitClustererParameters.isUseTMScore","method_implementation":"{\n    return useTMScore;\n}","repo_id":"9","comment":"/**\n * Use TMScore for evaluating structure similarity\n *\n * @return useTMScore\n */\n","repo_name":"biojava-master/","id":1642,"method_signature":"boolean isUseTMScore()"}

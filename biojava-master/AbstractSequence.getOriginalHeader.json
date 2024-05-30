@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getOriginalHeader","method_implementation":"{\n    return originalHeader;\n}","repo_id":"9","comment":"/**\n * @return the originalHeader\n */\n","repo_name":"biojava-master/","id":2910,"method_signature":"String getOriginalHeader()"}

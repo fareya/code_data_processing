@@ -1,0 +1,1 @@
+{"callee_method_names":["SymbolTable<Integer, Double>.size"],"method_name":"SparseVector.nnz","method_implementation":"{\n    return symbolTable.size();\n}","repo_id":"9","comment":"// return the number of nonzero entries\n","repo_name":"biojava-master/","id":848,"method_signature":"int nnz()"}

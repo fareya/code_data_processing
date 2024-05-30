@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StructureImpl.setName","method_implementation":"{\n    name = nam;\n}","repo_id":"9","comment":"/**\n * {@inheritDoc}\n */\n","repo_name":"biojava-master/","id":2117,"method_signature":"void setName(String)"}

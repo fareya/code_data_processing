@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SurvivalInfo.getOffset","method_implementation":"{\n    return offset;\n}","repo_id":"9","comment":"/**\n * @return the offset\n */\n","repo_name":"biojava-master/","id":3655,"method_signature":"double getOffset()"}

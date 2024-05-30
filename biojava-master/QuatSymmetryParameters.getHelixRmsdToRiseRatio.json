@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryParameters.getHelixRmsdToRiseRatio","method_implementation":"{\n    return helixRmsdToRiseRatio;\n}","repo_id":"9","comment":"/**\n * @return the helixRmsdToRiseRatio\n */\n","repo_name":"biojava-master/","id":1909,"method_signature":"double getHelixRmsdToRiseRatio()"}

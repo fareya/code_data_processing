@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Integer>.size"],"method_name":"ResidueGroup.order","method_implementation":"{\n    return residues.size();\n}","repo_id":"9","comment":"/**\n * The order of symmetry of the group is the number of connected residues.\n *\n * @return size of residues List\n */\n","repo_name":"biojava-master/","id":2069,"method_signature":"int order()"}

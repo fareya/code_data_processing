@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"SequenceFileProxyLoader.getCompoundAt","method_implementation":"{\n    return this.parsedCompounds.get(position - 1);\n}","repo_id":"9","comment":"/**\n * @param position\n * @return\n */\n","repo_name":"biojava-master/","id":3151,"method_signature":"C getCompoundAt(int)"}

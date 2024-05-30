@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"FileParsingParameters.isHeaderOnly","method_implementation":"{\n    return headerOnly;\n}","repo_id":"9","comment":"/**\n * Parse only the PDB file header out of the files\n *\n * @return flag\n */\n","repo_name":"biojava-master/","id":1317,"method_signature":"boolean isHeaderOnly()"}

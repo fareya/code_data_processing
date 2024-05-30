@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"StrataInfo.getSurv","method_implementation":"{\n    return surv;\n}","repo_id":"9","comment":"/**\n * @return the surv\n */\n","repo_name":"biojava-master/","id":3516,"method_signature":"ArrayList<Double> getSurv()"}

@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AtomCache.getFiletype","method_implementation":"{\n    return filetype;\n}","repo_id":"9","comment":"/**\n * Returns the currently active file type that will be parsed.\n * @return a StructureFiletype\n */\n","repo_name":"biojava-master/","id":640,"method_signature":"StructureFiletype getFiletype()"}

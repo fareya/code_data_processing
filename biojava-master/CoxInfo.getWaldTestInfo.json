@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"CoxInfo.getWaldTestInfo","method_implementation":"{\n    return waldTestInfo;\n}","repo_id":"9","comment":"/**\n * @return the waldTestInfo\n */\n","repo_name":"biojava-master/","id":3638,"method_signature":"WaldTestInfo getWaldTestInfo()"}

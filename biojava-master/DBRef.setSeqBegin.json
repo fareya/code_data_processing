@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"DBRef.setSeqBegin","method_implementation":"{\n    this.seqbegin = seqbegin;\n}","repo_id":"9","comment":"/**\n *   Initial sequence number of the PDB sequence segment.\n *\n * @param seqbegin start seq. position\n * @see #getSeqBegin()\n */\n","repo_name":"biojava-master/","id":1393,"method_signature":"void setSeqBegin(int)"}

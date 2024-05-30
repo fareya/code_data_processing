@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Stoichiometry.getClusters","method_implementation":"{\n    return orderedClusters;\n}","repo_id":"9","comment":"/**\n * @return list of {@link SubunitCluster}, ordered by the number of subunits (decreasing).\n */\n","repo_name":"biojava-master/","id":1889,"method_signature":"List<SubunitCluster> getClusters()"}

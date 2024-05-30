@@ -1,0 +1,1 @@
+{"callee_method_names":["List<Location>.get"],"method_name":"LocationHelper.detectStart","method_implementation":"{\n    return subLocations.get(0).getStart().clonePoint();\n}","repo_id":"9","comment":"/**\n * Assumes that the first element is the start & clones it\n */\n","repo_name":"biojava-master/","id":3054,"method_signature":"Point detectStart(List)"}

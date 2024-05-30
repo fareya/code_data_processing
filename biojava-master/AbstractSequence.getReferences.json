@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"AbstractSequence.getReferences","method_implementation":"{\n    return references;\n}","repo_id":"9","comment":"/**\n * @since 5.0.0\n * @return the list of {@link AbstractReference}\n */\n","repo_name":"biojava-master/","id":2921,"method_signature":"List<AbstractReference> getReferences()"}

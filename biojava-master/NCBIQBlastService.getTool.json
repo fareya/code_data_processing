@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"NCBIQBlastService.getTool","method_implementation":"{\n    return this.tool;\n}","repo_id":"9","comment":"/**\n * Get the tool identifier for QBlast. Defaults to {@value #DEFAULT_TOOL}\n *\n * @return the identifier\n */\n","repo_name":"biojava-master/","id":3473,"method_signature":"String getTool()"}

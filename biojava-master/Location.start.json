@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Location.start","method_implementation":"{\n    return mStart;\n}","repo_id":"9","comment":"/**\n * Get starting index (origin 0).\n *\n * @return The start index.\n */\n","repo_name":"biojava-master/","id":2399,"method_signature":"int start()"}

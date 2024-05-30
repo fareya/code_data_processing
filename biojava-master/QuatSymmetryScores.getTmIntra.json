@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"QuatSymmetryScores.getTmIntra","method_implementation":"{\n    return tmIntra;\n}","repo_id":"9","comment":"/**\n * @return the tmIntra\n */\n","repo_name":"biojava-master/","id":1954,"method_signature":"double getTmIntra()"}

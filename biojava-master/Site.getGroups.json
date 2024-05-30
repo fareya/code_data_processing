@@ -1,0 +1,1 @@
+{"callee_method_names":[],"method_name":"Site.getGroups","method_implementation":"{\n    return groups;\n}","repo_id":"9","comment":"/**\n * @return the groups\n */\n","repo_name":"biojava-master/","id":1571,"method_signature":"List<Group> getGroups()"}
